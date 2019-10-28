@@ -1,0 +1,12 @@
+{
+  "jsonBaseUrl":"https://raw.githubusercontent.com/pgajula14/mine/master/",
+  "webstyle":"<style>li{margin: 2px 0;font-family:'arial';}p{font-family:'arial';}</style>",
+  "imageurls" :["Routers/IMAGES/cr4250-ethernet-port.jpg","cr4250-power-port.jpg"],
+  "productSpecification":"",
+  "packagecontents":["CR4250 or CR4250-PoE","C8 line cord","Information on how to get started with your product","Warranty information","Rubber feet (4) for desk mounting"],
+  "getConnect":"<p data-aura-rendered-by='12:182;a'><strong>Connecting a wired wan</strong></p><p data-aura-rendered-by='12:182;a'>Connect your Ethernet WAN source to the WAN port of the CR4250 (Port 0 is default WAN. All ports are LAN/WAN switchable)</p>&nbsp<img src='Routers/IMAGES/cr4250-ethernet-port.jpg' width=100% alt=''>",
+  "insertSim":"",
+  "attachAnttena":"",
+  "clickanduploadpics":"",
+  "poweron":"<p data-aura-rendered-by='12:182;a'><strong>Connect the Power Source</strong></p><ol data-aura-rendered-by='12:182;a'><li>Plug the provided power supply (100-240V, 50-60Hz; 1.7A max without PoE, 4.1A max with PoE) into an electrical outlet. Then connect the power supply to the router.<img src='Routers/IMAGES/cr4250-power-port.jpg' width=100% alt=''></li><li>Ensure power is switched on (O = OFF, – = ON)</li><li>When you set the power switch to the ON ( – ) position; watch for the power LED to illuminate</li></ol>"
+}
