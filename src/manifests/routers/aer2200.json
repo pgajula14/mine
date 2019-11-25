@@ -2,8 +2,8 @@
   "productSpecification": [
     {
     "root":"WAN",
-    "top-description":null,
-    "bottom-description":null,
+    "top_description":null,
+    "bottom_description":null,
     "children":[
       {
         "type":"string",
@@ -29,8 +29,8 @@
     },
     {
     "root":"LAN",
-    "top-description":null,
-    "bottom-description":null,
+    "top_description":null,
+    "bottom_description":null,
     "children":[
       {
         "type":"string",
@@ -51,8 +51,8 @@
     },
     {
     "root":"Temperature",
-    "top-description":null,
-    "bottom-description":null,
+    "top_description":null,
+    "bottom_description":null,
     "children":[
       {
         "type":"string",
@@ -68,8 +68,8 @@
     },
     {
     "root":"Humidity (non-condensing)",
-    "top-description":null,
-    "bottom-description":null,
+    "top_description":null,
+    "bottom_description":null,
     "children":[
       {
         "type":"string",
@@ -85,8 +85,8 @@
     },
     {
     "root":"Memory",
-    "top-description":null,
-    "bottom-description":null,
+    "top_description":null,
+    "bottom_description":null,
     "children":[
       {
         "type":"string",
@@ -97,8 +97,8 @@
     },
     {
     "root":"Size",
-    "top-description":null,
-    "bottom-description":null,
+    "top_description":null,
+    "bottom_description":null,
     "children":[
       {
         "type":"string",
@@ -114,8 +114,8 @@
     },
     {
     "root":"Weight",
-    "top-description":null,
-    "bottom-description":null,
+    "top_description":null,
+    "bottom_description":null,
     "children":[
       {
         "type":"string",
@@ -126,8 +126,8 @@
     },
     {
     "root":"Certifications",
-    "top-description":null,
-    "bottom-description":null,
+    "top_description":null,
+    "bottom_description":null,
     "children":[
       {
         "type":"string",
@@ -138,8 +138,8 @@
     },
     {
     "root":"WIFI Power (FCC)",
-    "top-description":null,
-    "bottom-description":null,
+    "top_description":null,
+    "bottom_description":null,
     "children":[
       {
         "type":"string",
@@ -160,8 +160,8 @@
     },
     {
     "root":"WIFI Power (Europe/Rest of World)",
-    "top-description":null,
-    "bottom-description":null,
+    "top_description":null,
+    "bottom_description":null,
     "children":[
       {
         "type":"string",
@@ -177,8 +177,8 @@
     },
     {
     "root":"GPS",
-    "top-description":null,
-    "bottom-description":null,
+    "top_description":null,
+    "bottom_description":null,
     "children":[
       {
         "type":"string",
@@ -191,8 +191,8 @@
   "getconnect": [
     {
     "root":"Connect wired wan",
-    "top-description":null,
-    "bottom-description":null,
+    "top_description":null,
+    "bottom_description":null,
     "children":[
       {
         "type":"string",
@@ -210,8 +210,8 @@
   "insertsim":[
     {
     "root":"Insert an Activated SIM",
-    "top-description":"If setting up cellular connectivity, do the following:",
-    "bottom-description":"NOTE: The modem door cover must be on the device or the embedded modem will not power on.",
+    "top_description":"If setting up cellular connectivity, do the following:",
+    "bottom_description":"NOTE: The modem door cover must be on the device or the embedded modem will not power on.",
     "children":[
       {
         "type":"string",
@@ -244,8 +244,8 @@
     },
     {
     "root":"Insert Optional External MC400 Modem",
-    "top-description":"The AER2200 has a slot for second, removable modem (MC400). Before the AER2200 can be set up, the additional modem must be installed. To install this modem, do the following:",
-    "bottom-description":null,
+    "top_description":"The AER2200 has a slot for second, removable modem (MC400). Before the AER2200 can be set up, the additional modem must be installed. To install this modem, do the following:",
+    "bottom_description":null,
     "children":[
       {
         "type":"string",
@@ -294,8 +294,8 @@
   "attachAnttena":[
     {
     "root":"Attach the Antennas",
-    "top-description":"Attach the four WiFi antennas (included) and two or four cellular modem antennas (included) to the connectors.",
-    "bottom-description":"NOTE: Cellular antennas include RP-SMA connectors (pin in the center on the antenna) while WiFi antennas include SMA connectors (pin in the center on the device connection point). Ensure you connect the correct antennas to their applicable connection locations.",
+    "top_description":"Attach the four WiFi antennas (included) and two or four cellular modem antennas (included) to the connectors.",
+    "bottom_description":"NOTE: Cellular antennas include RP-SMA connectors (pin in the center on the antenna) while WiFi antennas include SMA connectors (pin in the center on the device connection point). Ensure you connect the correct antennas to their applicable connection locations.",
     "children":[
       {
         "type":"string",
@@ -330,8 +330,8 @@
    "poweron": [
     {
     "root":"Connect the Power Source",
-    "top-description":null,
-    "bottom-description":null,
+    "top_description":null,
+    "bottom_description":null,
     "children":[
       {
         "type":"string",
@@ -362,5 +362,6 @@
   "aer2200_mc400_slot.jpg",
   "aer2200_wifi_antennas.jpg",
   "aer2200_antennas.jpg",
-  "aer2200_power_port.jpg"]
+  "aer2200_power_port.jpg"],
+  "packagecontents":["One AER2200 with embedded LTE Advanced (600M) or LTE Advanced Pro (1200M) modem","Two or Four LTE universal modem antennas (SMA)* (Number vary depending on the model)","Two or Four dual-band WiFi antennas (RP-SMA)* (Number vary depending on the model)","An AC/DC power adapter","A Cat 5 ethernet patch cable","One MC400 modem door screw","Four rubber feet for desk mounting","Safety, Regulatory, and Warranty Guide"]
 }
