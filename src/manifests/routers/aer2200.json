@@ -188,7 +188,7 @@
       ]
     }
   ],
-  "getconnect":[
+  "connectWan":[
     {
     "root":"Connect wired wan",
     "top_description":null,
@@ -207,7 +207,7 @@
       ]
     }
   ] ,
-  "insertsim":[
+  "insertSim":[
     {
     "root":"Insert an Activated SIM",
     "top_description":"If setting up cellular connectivity, do the following:",
@@ -327,7 +327,7 @@
       ]
     }
   ],
-   "poweron": [
+   "powerOn": [
     {
     "root":"Connect the Power Source",
     "top_description":null,
@@ -356,12 +356,12 @@
       ]
     }
   ],
-  "imageurls":["aer2200_ethernet_port.jpg",
+  "imageNames":["aer2200_ethernet_port.jpg",
   "aer2200_sims.jpg",
   "aer2200_mc400_slot_alt.jpg",
   "aer2200_mc400_slot.jpg",
   "aer2200_wifi_antennas.jpg",
   "aer2200_antennas.jpg",
   "aer2200_power_port.jpg"],
-  "packagecontents":["One AER2200 with embedded LTE Advanced (600M) or LTE Advanced Pro (1200M) modem","Two or Four LTE universal modem antennas (SMA)* (Number vary depending on the model)","Two or Four dual-band WiFi antennas (RP-SMA)* (Number vary depending on the model)","An AC/DC power adapter","A Cat 5 ethernet patch cable","One MC400 modem door screw","Four rubber feet for desk mounting","Safety, Regulatory, and Warranty Guide"]
+  "packageContents":["One AER2200 with embedded LTE Advanced (600M) or LTE Advanced Pro (1200M) modem","Two or Four LTE universal modem antennas (SMA)* (Number vary depending on the model)","Two or Four dual-band WiFi antennas (RP-SMA)* (Number vary depending on the model)","An AC/DC power adapter","A Cat 5 ethernet patch cable","One MC400 modem door screw","Four rubber feet for desk mounting","Safety, Regulatory, and Warranty Guide"]
 }
