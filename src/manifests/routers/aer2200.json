@@ -188,7 +188,7 @@
       ]
     }
   ],
-  "getconnect": [
+  "getconnect":[
     {
     "root":"Connect wired wan",
     "top_description":null,
@@ -206,7 +206,7 @@
       }
       ]
     }
-  ],
+  ] ,
   "insertsim":[
     {
     "root":"Insert an Activated SIM",
