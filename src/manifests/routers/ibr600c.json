@@ -1,0 +1,323 @@
+{
+  "productSpecification": [{
+      "root": "WAN",
+      "top_description": "null",
+      "bottom_description": null,
+      "children": [{
+          "type": "string",
+          "value": "Dual-modem capable with optional COR Extensibility Dock",
+          "children": null
+        },
+        {
+          "type": "string",
+          "value": "Embedded 150M-B, 150M-C, or 150M-D modem",
+          "children": null
+        },
+        {
+          "type": "string",
+          "value": "Two LAN/WAN switchable Ethernet ports (one 10/100/1000 and one 10/100) – one default WAN",
+          "children": null
+        },
+        {
+          "type": "string",
+          "value": "WiFi-as-WAN, Metro WiFi; 2×2 MIMO “N” 2.4 GHz; 802.11 b/g/n (IBR600C only)",
+          "children": null
+        }
+      ]
+    },
+    {
+      "root": "LAN",
+      "top_description": null,
+      "bottom_description": null,
+      "children": [{
+          "type": "string",
+          "value": "2×2 MIMO “N” 2.4 GHz WiFi; 802.11 b/g/n (IBR600C only)",
+          "children": null
+        },
+        {
+          "type": "string",
+          "value": "Two LAN/WAN switchable Ethernet ports (one 10/100/1000 and one 10/100) – one default LAN",
+          "children": null
+        },
+        {
+          "type": "string",
+          "value": "Serial console support for Out-of-Band Management of a connected device",
+          "children": null
+        }
+      ]
+    },
+    {
+      "root": "PORTS",
+      "top_description": null,
+      "bottom_description": null,
+      "children": [{
+          "type": "string",
+          "value": "Power",
+          "children": null
+        },
+        {
+          "type": "string",
+          "value": "2-wire GPIO",
+          "children": null
+        },
+        {
+          "type": "string",
+          "value": "Add more GPIO ports with optional 9-wire GPIO cable or COR Extensibility Dock (see Accessories section below)",
+          "children": null
+        },
+        {
+          "type": "string",
+          "value": "USB 2.0",
+          "children": null
+        },
+        {
+          "type": "string",
+          "value": "Two Ethernet LAN/WAN",
+          "children": null
+        },{
+          "type": "string",
+          "value": "Two cellular antenna connectors (SMA)",
+          "children": null
+        },
+        {
+          "type": "string",
+          "value": "Two WiFi antenna connectors (R-SMA; IBR600C only)",
+          "children": null
+        },
+        {
+          "type": "string",
+          "value": "One GPS connector (SMA) (150M-B, 150M-C, 150M-D only. LPE GPS is muxed on LTE)",
+          "children": null
+        },
+        {
+          "type": "string",
+          "value": "15-pin dock port for COR Extensibiliity Dock or 9-wire GPIO cable",
+          "children": null
+        }
+      ]
+    },
+    {
+      "root": "Temperature",
+      "top_description": null,
+      "bottom_description": null,
+      "children": [{
+          "type": "string",
+          "value": "-20 °C to 60 °C (-4 °F to 140 °F) operating",
+          "children": null
+        }
+      ]
+    },
+    {
+      "root": "Humidity (non-condensing)",
+      "top_description": null,
+      "bottom_description": null,
+      "children": [{
+          "type": "string",
+          "value": "5% to 95% operating",
+          "children": null
+        },
+        {
+          "type": "string",
+          "value": "5% to 95% storage",
+          "children": null
+        }
+      ]
+    },
+    {
+      "root": "POWER",
+      "top_description": null,
+      "bottom_description": null,
+      "children": [
+        {
+          "type": "string",
+          "value": "DC input steady state voltage range: 9–33 VDC (requires inline fuse for vehicle installations)",
+          "children": [
+            {
+          "type": "string",
+          "value": "For 9–24 VDC installations, use a 3 A fuse",
+          "children": null
+           },
+          {
+          "type": "string",
+          "value": "For > 24 VDC installations, use a 2.5 A fuse",
+          "children": null
+          }
+          ]
+        },
+        {
+          "type": "string",
+          "value": "Reverse polarity and transient voltage protection per ISO 7637-2",
+          "children": null
+        },{
+          "type": "string",
+          "value": "Ignition sensing (automatic ON and time-delay OFF)",
+          "children": null
+        },{
+          "type": "string",
+          "value": "ower Consumption",
+          "children": [
+            {
+          "type": "string",
+          "value": "Idle: 4 W",
+          "children": null
+           },
+          {
+          "type": "string",
+          "value": "WiFi Tx/Rx: 9 W",
+          "children": null
+          },
+          {
+          "type": "string",
+          "value": "LTE Tx/Tx: 6.25 W",
+          "children": null
+           }
+          ]
+        }
+      ]
+    },
+    {
+      "root": "WIFI POWER (FCC)",
+      "top_description": null,
+      "bottom_description": null,
+      "children": [{
+        "type": "string",
+        "value": "2.4 GHz band: 28.1 dBm conducted",
+        "children": null
+      }]
+    },
+    {
+      "root": "WIFI POWER (Europe/Rest of World)",
+      "top_description": null,
+      "bottom_description": null,
+      "children": [{
+          "type": "string",
+          "value": "2.4 GHz band: 15 dBm conducted",
+          "children": null
+        },
+        {
+          "type": "string",
+          "value": "2.4 GHz band: 20 dBm EIRP",
+          "children": null
+        }
+      ]
+    },
+    {
+      "root": "SIZE",
+      "top_description": null,
+      "bottom_description": null,
+      "children": [{
+        "type": "string",
+        "value": "4.6 × 4.5 × 1.2 in (118 × 113.5 × 29.3 mm)",
+        "children": null
+      }]
+    },
+    {
+      "root": "WEIGHT",
+      "top_description": null,
+      "bottom_description": null,
+      "children": [{
+        "type": "string",
+        "value": "14 oz (400 g)",
+        "children": null
+      }]
+    }
+  ],
+  "connectWan": [{
+    "root": "Connect wired wan",
+    "top_description": null,
+    "bottom_description": null,
+    "children": [{
+        "type": "string",
+        "value": "Connect your Ethernet WAN source to the WAN port(Port WAN is default WAN. All ports are LAN/WAN switchable).",
+        "children": null
+      },
+      {
+        "type": "image",
+        "value": "images/routers/ibr600c_wan_port.jpg",
+        "children": null
+      }
+    ]
+  }],
+  "insertSim": [{
+      "root": "Insert an Activated SIM",
+      "top_description": null,
+      "bottom_description": null,
+      "children": [{
+          "type": "string",
+          "value": "Unscrew and remove the SIM cover from the router.",
+          "children": null
+        },
+        {
+          "type": "string",
+          "value": "Insert the card into the SIM1 slot, metal contacts down and notch in. It will click into place. Depress again to remove.",
+          "children": null
+        },
+        {
+          "type": "string",
+          "value": "Insert the secondary SIM card into the SIM2 slot if desired.",
+          "children": [{
+            "type": "image",
+            "value": "images/routers/ibr600c-sims.jpg",
+            "children": null
+          }]
+        },
+        {
+          "type": "string",
+          "value": "Replace the SIM door cover and secure with the screws.",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "attachAnttena": [{
+    "root": "Attach the Antennas",
+    "top_description": "Attach the two LTE and optional GPS antenna (not included), to the connectors. The antennas are jointed, which enables positioning for optimal signal reception.",
+    "bottom_description": "NOTE: Cellular antennas include RP-SMA connectors (pin in the center on the antenna) while WiFi antennas include SMA connectors (pin in the center on the device connection point). Ensure you connect the correct antennas to their applicable connection locations.",
+    "children": [{
+        "type": "image",
+        "value": "images/routers/ibr600c_antennas_side1.jpg",
+        "children": null
+      },
+      {
+        "type": "string",
+        "value": "Do not over-tighten. The maximum recommended torque is 4 in-lbs.",
+        "children": null
+      },
+      {
+        "type": "image",
+        "value": "images/routers/ibr600c_antennas_side2.jpg",
+        "children": null
+      },
+      {
+        "type": "string",
+        "value": "Angle the antennas for optimal signal reception.",
+        "children": null
+      }
+
+    ]
+  }],
+  "powerOn": [{
+    "root": "Connect the Power Source",
+    "top_description": null,
+    "bottom_description": null,
+    "children": [{
+        "type": "string",
+        "value": "Insert four-pin end of the AC adapter to the four-pin port on the router. Plug the adapter into an electrical socket.",
+        "children": null
+      },
+      {
+        "type": "image",
+        "value": "images/routers/ibr600c_power_port_revised.jpg",
+        "children": null
+      }
+    ]
+  }],
+  "imageNames": ["images/routers/ibr600c_wan_port.jpg",
+    "images/routers/ibr600c_sims.jpg",
+    "images/routers/ibr600c_ext_port.jpg",
+    "images/routers/ibr600c_antennas_side1.jpg",
+    "images/routers/ibr600c_antennas_side2.jpg",
+    "images/routers/ibr600c_power_port_revised.jpg"
+  ],
+  "packageContents": ["One IBR600C series IoT router with an embedded business-class LTE modem featuring an integrated mounting plate", "Two external mobile broadband modem antennas (SMA)", "Two external WiFi antennas (RP-SMA)", "Two extra SIM door screws", "An AC power adapter", "Safety, Warranty, and Regulatory Guide"]
+}
