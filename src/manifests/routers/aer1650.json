@@ -1,0 +1,413 @@
+{
+  "productSpecification": [
+    {
+      "root": "WAN",
+      "top_description": null,
+      "bottom_description": null,
+      "children": [
+        {
+          "type": "string",
+          "value": "Embedded Modem Options:",
+          "children": [
+            {
+              "type": "string",
+              "value": "LP6 Category 6 LTE Advanced LTE modem (with DC-HSPA+ failover)",
+              "children": null
+            },
+            {
+              "type": "string",
+              "value": "LP5 Category 6 LTE Advanced LTE modem (with DC-HSPA+ failover)",
+              "children": null
+            },
+            {
+              "type": "string",
+              "value": "LP4 Category 4 LTE modem (one modem included; dual-modem option) multi-carrier, software-defined radio (includes DC-HSPA+ failover)",
+              "children": null
+            },
+            {
+              "type": "string",
+              "value": "LPE 4G LTE (one modem included; dual-modem option) modem with multi-carrier, software-defined radio (includes HSPA+/ EVDO/3G and 2G failover)",
+              "children": null
+            },
+            {
+              "type": "string",
+              "value": "LP3 4G LTE modem (with HSPA+ and 2G failover)",
+              "children": null
+            }
+          ]
+        },
+        {
+          "type": "string",
+          "value": "5 10/100/1000 ethernet ports (cable/DSL/T1/satellite/Metro Ethernet; WAN/LAN switchable)",
+          "children": null
+        },
+        {
+          "type": "string",
+          "value": "WiFi* (as WAN; Metro WiFi) 2×2 MIMO 2.4 GHz or 5 GHz (802.11 a/b/g/n/ac; internal antennas)",
+          "children": null
+        }
+      ]
+    },
+    {
+      "root": "LAN",
+      "top_description": null,
+      "bottom_description": null,
+      "children": [
+        {
+          "type": "string",
+          "value": "Dual-band, dual-concurrent WiFi* (802.11 a/b/g/n/ac)",
+          "children": null
+        },
+        {
+          "type": "string",
+          "value": "5 10/100/1000 ethernet ports (WAN/LAN switchable)",
+          "children": null
+        }
+      ]
+    },
+    {
+      "root": "Temperature",
+      "top_description": null,
+      "bottom_description": null,
+      "children": [
+        {
+          "type": "string",
+          "value": "0 °C to 50 °C (32 °F to 122 °F) operating",
+          "children": null
+        },
+        {
+          "type": "string",
+          "value": "-20 °C to 70 °C (-4 °F to 158 °F) storage",
+          "children": null
+        }
+      ]
+    },
+    {
+      "root": "Humidity (non-condensing)",
+      "top_description": null,
+      "bottom_description": null,
+      "children": [
+        {
+          "type": "string",
+          "value": "10% to 85% operating",
+          "children": null
+        },
+        {
+          "type": "string",
+          "value": "5% to 90% storage",
+          "children": null
+        }
+      ]
+    },
+    {
+      "root": "Memeory",
+      "top_description": null,
+      "bottom_description": null,
+      "children": [
+        {
+          "type": "string",
+          "value": "56 MB DRAM; 16 MB SPI Flash; 256 MB NAND Flash",
+          "children": null
+        }
+      ]
+    },
+    {
+      "root": "SIZE",
+      "top_description": null,
+      "bottom_description": null,
+      "children": [
+        {
+          "type": "string",
+          "value": "8.3 × 6.6 × 1.7 in (210 × 167 × 44 mm)",
+          "children": null
+        },
+        {
+          "type": "string",
+          "value": "1U height for rack mount",
+          "children": null
+        }
+      ]
+    },
+    {
+      "root": "WEIGHT",
+      "top_description": null,
+      "bottom_description": null,
+      "children": [
+        {
+          "type": "string",
+          "value": "1 lb 4.4 oz (.58 kg)",
+          "children": null
+        }
+      ]
+    },
+    {
+      "root": "Certifications",
+      "top_description": null,
+      "bottom_description": null,
+      "children": [
+        {
+          "type": "string",
+          "value": "FCC, WiFi Alliance, CE, IC, carrier certifications",
+          "children": null
+        }
+      ]
+    },
+    {
+      "root": "WIFI POWER (FCC)",
+      "top_description": null,
+      "bottom_description": null,
+      "children": [
+        {
+          "type": "string",
+          "value": "2402-2483.5 MHz (2.4 GHz band): 28.51 dBm conducted",
+          "children": null
+        },
+        {
+          "type": "string",
+          "value": "5150-5250 MHz (5 GHz band 1): 26.66 dBm conducted",
+          "children": null
+        },
+        {
+          "type": "string",
+          "value": "5725-5850 MHz (5 GHz band 3): 23.54 dBm conducted",
+          "children": null
+        }
+      ]
+    },
+    {
+      "root": "WIFI POWER (Europe/Rest of World)",
+      "top_description": null,
+      "bottom_description": null,
+      "children": [
+        {
+          "type": "string",
+          "value": "2.4 GHz band: 19.95 dBm EIRP",
+          "children": null
+        },
+        {
+          "type": "string",
+          "value": "5150-5250 MHz: 22.98 dBm EIRP",
+          "children": null
+        }
+      ]
+    },
+    {
+      "root": "Power Consumption(Typical)",
+      "top_description": null,
+      "bottom_description": null,
+      "children": [
+        {
+          "type": "string",
+          "value": "AER1600",
+          "children": [
+            {
+              "type": "string",
+              "value": "Idle: 9.5 W",
+              "children": null
+            },
+            {
+              "type": "string",
+              "value": "Single Modem: 13.1 W",
+              "children": null
+            },
+            {
+              "type": "string",
+              "value": "Dual Modem: 15.2 W",
+              "children": null
+            }
+          ]
+        },
+        {
+          "type": "string",
+          "value": "AER1650",
+          "children": [
+            {
+              "type": "string",
+              "value": "Idle: 7.3 W",
+              "children": null
+            },
+            {
+              "type": "string",
+              "value": "Single Modem: 8.6 W",
+              "children": null
+            },
+            {
+              "type": "string",
+              "value": "Dual Modem: 10.6 W",
+              "children": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "root": "WARNING: Using a power adapter other than the one provided may damage the device and will void the warranty.",
+      "top_description": null,
+      "bottom_description": null,
+      "children": null
+    }
+  ],
+  "connectWan": [
+    {
+      "root": "Connect wired wan",
+      "top_description": null,
+      "bottom_description": null,
+      "children": [
+        {
+          "type": "string",
+          "value": "Connect your Ethernet WAN source to the WAN port of the AER1650 (Port WAN is default WAN. All ports are LAN/WAN switchable).",
+          "children": null
+        },
+        {
+          "type": "image",
+          "value": "images/routers/16x0_ethernet_wan_1.jpg",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "insertSim": [
+    {
+      "root": "Insert an Activated SIM",
+      "top_description": "If setting up cellular connectivity, do the following:",
+      "bottom_description": null,
+      "children": [
+        {
+          "type": "string",
+          "value": "Turn the router over and remove the screw to the SIM door.",
+          "children": null
+        },
+        {
+          "type": "string",
+          "value": "Lift the SIM 1 card slot and insert an activated 2FF-sized SIM card. Insert the notch end first with the metal contacts facing the interior of the device when the SIM door is closed.",
+          "children": null
+        },
+        {
+          "type": "string",
+          "value": "Insert a second activated SIM card into the SIM 2 card slot, if desired.",
+          "children": [
+            {
+              "type": "image",
+              "value": "images/routers/16x0_sims_1.jpg",
+              "children": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "root": "Insert Optional External MC400 Modem",
+      "top_description": "The AER1650 Series has a slot for a removable modular MC400. To install this modem, do the following:",
+      "bottom_description": "NOTE:  The modem door cover must be on the device or the embedded modem will not power on.",
+      "children": [
+        {
+          "type": "string",
+          "value": "Insert an activated 2FF-sized SIM card into the MC400 modem, metal contacts down, notch end first.",
+          "children": null
+        },
+        {
+          "type": "string",
+          "value": "Remove the modem door on the AER1650 Series device.",
+          "children": [
+            {
+              "type": "image",
+              "value": "images/routers/16x0_mc400_slot_1.jpg",
+              "children": null
+            }
+          ]
+        },
+        {
+          "type": "string",
+          "value": "Slide the MC400 modem into the available modem into the available modem slot, USB plug first, with the Cradlepoint logo facing up.",
+          "children": null
+        },
+        {
+          "type": "string",
+          "value": "Replace the MC400 modem door cover.NOTE:  Remove the plastic SMA covers from the modem door cover for the additional antenna ports on the modem.",
+          "children": null
+        },
+        {
+          "type": "string",
+          "value": "Secure the door cover screw (beneath the device).",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "attachAnttena": [
+    {
+      "root": "Attach the Antennas",
+      "top_description": "Attach the two or four (depending on model) cellular modem antennas (included) to the connectors.",
+      "bottom_description": null,
+      "children": [
+        {
+          "type": "image",
+          "value": "images/routers/16x0_antennas1_1.jpg",
+          "children": null
+        },
+        {
+          "type": "string",
+          "value": "Hold the antenna straight and twist the base of the antenna to connect to the device.",
+          "children": [
+            {
+              "type": "string",
+              "value": "Do not over-tighten. The maximum recommended torque is 4 in-lbs.",
+              "children": null
+            }
+          ]
+        },
+        {
+          "type": "string",
+          "value": "Angle the antennas for optimal signal reception. ",
+          "children": null
+        },
+        {
+          "type": "image",
+          "value": "images/routers/16x0_antennas2_1.jpg",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "powerOn": [
+    {
+      "root": "Connect the Power Source",
+      "top_description": null,
+      "bottom_description": null,
+      "children": [
+        {
+          "type": "string",
+          "value": "Connect the power supply to the router and then plug the other end into an electrical outlet.",
+          "children": [
+            {
+              "type": "image",
+              "value": "images/routers/16x0_powerport_1.jpg",
+              "children": null
+            }
+          ]
+        },
+        {
+          "type": "string",
+          "value": "Switch the device to ON (O = OFF, – = ON). The LED lights will begin lighting up.",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "imageNames": [
+    "images/routers/16x0_ethernet_wan_1.jpg",
+    "images/routers/16x0_sims_1.jpg",
+    "images/routers/16x0_mc400_slot_1.jpg",
+    "images/routers/16x0_antennas1_1.jpg",
+    "images/routers/16x0_antennas2_1.jpg",
+    "images/routers/16x0_powerport_1.jpg"
+  ],
+  "packageContents": [
+    "An AER1650 Series Router",
+    "An MC400 LTE Modem (Included with AER1650LP3. Optional for AER1650, and AER1650LPE.)",
+    "A 12V 3A AC/DC Power Adapter",
+    "Modem Antennas (quantities vary by model)",
+    "An Ethernet Cable",
+    "A Safety, Regulatory, and Warranty Guide"
+  ]
+}
