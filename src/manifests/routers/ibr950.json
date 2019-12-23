@@ -1,0 +1,124 @@
+{
+  "productSpecification": "",
+  "connectWan": [
+    {
+      "root": "Connect wired wan",
+      "top_description": null,
+      "bottom_description": null,
+      "children": [
+        {
+          "type": "string",
+          "value": "Connect your Ethernet WAN source to the WAN port(Port WAN is default WAN. All ports are LAN/WAN switchable).",
+          "children": null
+        },
+        {
+          "type": "image",
+          "value": "images/routers/ibr900_wan_port.jpg",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "insertSim": [
+    {
+      "root": "Insert an Activated SIM",
+      "top_description": null,
+      "bottom_description": null,
+      "children": [
+        {
+          "type": "string",
+          "value": "Unscrew and remove the SIM cover from the router.",
+          "children": null
+        },
+        {
+          "type": "string",
+          "value": "Insert the card into the SIM1 slot, metal contacts down and notch in. It will click into place. Depress again to remove.",
+          "children": null
+        },
+        {
+          "type": "string",
+          "value": "Insert the secondary SIM card into the SIM2 slot if desired.",
+          "children": [
+            {
+              "type": "image",
+              "value": "images/routers/ibr900_sims.jpg",
+              "children": null
+            }
+          ]
+        },
+        {
+          "type": "string",
+          "value": "Replace the SIM door cover and secure with the screws.",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "attachAnttena": [
+    {
+      "root": "Attach the Antennas",
+      "top_description": null,
+      "bottom_description": null,
+      "children": [
+        {
+          "type": "string",
+          "value": "Attach the two cellular modem antennas to the connectors (not included).",
+          "children": null
+        },
+        {
+          "type": "image",
+          "value": "images/routers/ibr900_antennas_side1.jpg",
+          "children": null
+        },
+        {
+          "type": "string",
+          "value": "Do not over-tighten. The maximum recommended torque is 4 in-lbs.",
+          "children": null
+        },
+        {
+          "type": "image",
+          "value": "images/routers/ibr900_antennas_side2.jpg",
+          "children": null
+        },
+        {
+          "type": "string",
+          "value": "Angle the antennas for optimal signal reception.",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "powerOn": [
+    {
+      "root": "Connect the Power Source",
+      "top_description": null,
+      "bottom_description": null,
+      "children": [
+        {
+          "type": "string",
+          "value": "The 4-pin power/GPIO cable connects directly to the router and is intended for connecting to a DC power source. Refer to the following for pin configuration to ensure the cables are connected appropriately:",
+          "children": null
+        },
+        {
+          "type": "image",
+          "value": "images/routers/ibr900_power_port_revised.jpg",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "imageNames": [
+    "images/routers/ibr900_wan_port.jpg",
+    "images/routers/ibr900_sims.jpg",
+    "images/routers/ibr900_ext_port.jpg",
+    "images/routers/ibr900_antennas_side1.jpg",
+    "images/routers/ibr900_antennas_side2.jpg",
+    "images/routers/ibr900_power_port_revised.jpg"
+  ],
+  "packageContents": [
+    "A high-performance, ruggedized IBR950 series mobile router with an embedded business-class LTE modem and integrated mounting plate",
+    "A three-meter locking power and GPIO cable (direct wire)",
+    "Two Extra SIM door screws",
+    "Safety, Warranty and Regulatory guide"
+  ]
+}
