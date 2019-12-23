@@ -1,7 +1,7 @@
 {
   "productSpecification": [{
       "root": "WAN",
-      "top_description": "null",
+      "top_description": null,
       "bottom_description": null,
       "children": [{
           "type": "string",
