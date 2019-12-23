@@ -1,5 +1,5 @@
 {
-  "productSpecification": null,
+  "productSpecification": [],
   "connectWan": [
     {
       "root": "Connect wired wan",
