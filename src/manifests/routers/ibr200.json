@@ -1,0 +1,320 @@
+{
+  "productSpecification": [
+    {
+      "root": "WAN:",
+      "top_description": null,
+      "bottom_description": null,
+      "children": [
+        {
+          "type": "string",
+          "value": "Cat 1 LTE modem (10/5 Mbps DL/UL)",
+          "children": null
+        },
+        {
+          "type": "string",
+          "value": "One SIM slot",
+          "children": null
+        }
+      ]
+    },
+    {
+      "root": "LAN:",
+      "top_description": null,
+      "bottom_description": null,
+      "children": [
+        {
+          "type": "string",
+          "value": "One LAN 10/100 ethernet port",
+          "children": null
+        }
+      ]
+    },
+    {
+      "root": "PORTS:",
+      "top_description": null,
+      "bottom_description": null,
+      "children": [
+        {
+          "type": "string",
+          "value": "Power w/2-wire GPIO (one input, one output)",
+          "children": null
+        },
+        {
+          "type": "string",
+          "value": "One ethernet LAN",
+          "children": null
+        },
+        {
+          "type": "string",
+          "value": "Two LTE cellular antenna connectors (SMA)",
+          "children": null
+        },
+        {
+          "type": "string",
+          "value": "One USB 2.0 Type-A",
+          "children": null
+        },
+        {
+          "type": "string",
+          "value": "One WiFi connector (RP-SMA)",
+          "children": null
+        }
+      ]
+    },
+    {
+      "root": "Temperature:",
+      "top_description": null,
+      "bottom_description": null,
+      "children": [
+        {
+          "type": "string",
+          "value": "–20° C to 60° C (–4° F to 140° F) operating",
+          "children": null
+        }
+      ]
+    },
+    {
+      "root": "Humidity (non-condensing):",
+      "top_description": null,
+      "bottom_description": null,
+      "children": [
+        {
+          "type": "string",
+          "value": "5% to 95% operating",
+          "children": null
+        },
+        {
+          "type": "string",
+          "value": "5% to 95% storage",
+          "children": null
+        }
+      ]
+    },
+    {
+      "root": "POWER:",
+      "top_description": null,
+      "bottom_description": null,
+      "children": [
+        {
+          "type": "string",
+          "value": "Power input: 12VDC 1A",
+          "children": null
+        },
+        {
+          "type": "string",
+          "value": "Power consumption:",
+          "children": [
+            {
+              "type": "String",
+              "value": "Conditions: 12V input, room temperature"
+            },
+            {
+              "type": "String",
+              "value": "Idle: 2.7W (1.8W w/WiFi off)"
+            },
+            {
+              "type": "String",
+              "value": "Typical: 3.6 W (2.8W w/WiFi off)"
+            },
+            {
+              "type": "String",
+              "value": "Heavy Usage: 5.8 W"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "root": "WIFI POWER (FCC):",
+      "top_description": null,
+      "bottom_description": null,
+      "children": [
+        {
+          "type": "string",
+          "value": "IBR200-10M-VZ, IBR200-10M-B-AT, IBR200-10M-C-SP",
+          "children": null
+        },
+        {
+          "type": "string",
+          "value": "2402–2483.5 MHz (2.4 GHz band): 25.3 dBm conducted",
+          "children": null
+        },
+        {
+          "type": "string",
+          "value": "IBR200-10M-D-EU, IBR200-10M-E-AP",
+          "children": null
+        },
+        {
+          "type": "string",
+          "value": "2402–2483.5 MHz (2.4 GHz band): 14.99 dBm conducted",
+          "children": null
+        }
+      ]
+    },
+    {
+      "root": "SIZE:",
+      "top_description": null,
+      "bottom_description": null,
+      "children": [
+        {
+          "type": "string",
+          "value": "3.0 × 3.7 × 1.0 in (76.5 × 94.5 × 24.5 mm)",
+          "children": null
+        }
+      ]
+    },
+    {
+      "root": "WEIGHT:",
+      "top_description": null,
+      "bottom_description": null,
+      "children": [
+        {
+          "type": "string",
+          "value": "6 oz (175 g)",
+          "children": null
+        }
+      ]
+    },
+    {
+      "root": "Certifications:",
+      "top_description": null,
+      "bottom_description": null,
+      "children": [
+        {
+          "type": "string",
+          "value": "PTCRB, FCC, IC, Carrier",
+          "children": null
+        },
+        {
+          "type": "string",
+          "value": "Safety: UL/CUL",
+          "children": null
+        },
+        {
+          "type": "string",
+          "value": "Materials: WEEE, RoHS, RoHS-2, California Prop 65",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "connectWan": "",
+  "insertSim": [
+    {
+      "root": "Insert an Activated SIM",
+      "top_description": null,
+      "bottom_description": null,
+      "children": [
+        {
+          "type": "string",
+          "value": "Slide open the SIM cover to reveal the SIM slots.",
+          "children": null
+        },
+        {
+          "type": "string",
+          "value": "Insert the card into the SIM1 slot, metal contacts down and notch in. It will click into place. Depress again to remove.",
+          "children": null
+        },
+        {
+          "type": "string",
+          "value": "Insert the secondary SIM card into the SIM2 slot if desired.",
+          "children": [
+            {
+              "type": "image",
+              "value": "images/routers/ibr200_sim.jpg",
+              "children": null
+            }
+          ]
+        },
+        {
+          "type": "string",
+          "value": "Slide the SIM cover over the SIM(s).",
+          "children": null
+        },
+        {
+          "type": "string",
+          "value": "Secure with the included screw.",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "attachAnttena": [
+    {
+      "root": "Attach the Antennas",
+      "top_description": null,
+      "bottom_description": null,
+      "children": [
+        {
+          "type": "string",
+          "value": "Attach the two LTE and one WiFi antennas (included) to the connectors. The antennas are jointed, which enables positioning for optimal signal reception.",
+          "children": [
+            {
+              "type": "string",
+              "value": "NOTE: Cellular antennas include RP-SMA connectors (pin in the center on the antenna) while WiFi antennas include SMA connectors (pin in the center on the device connection point). Ensure you connect the correct antennas to their applicable connection locations.",
+              "children": null
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "value": "images/routers/ibr200_antennas_side2.jpg",
+          "children": null
+        },
+        {
+          "type": "string",
+          "value": "Do not over-tighten. The maximum recommended torque is 4 in-lbs.",
+          "children": null
+        },
+        {
+          "type": "string",
+          "value": "Angle the antennas for optimal signal reception.",
+          "children": null
+        },
+        {
+          "type": "image",
+          "value": "images/routers/ibr200_antenna_side1.jpg",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "powerOn": [
+    {
+      "root": "Connect the Power Source",
+      "top_description": null,
+      "bottom_description": null,
+      "children": [
+        {
+          "type": "string",
+          "value": "Insert four-pin end of the AC adapter to the four-pin port on the router.",
+          "children": null
+        },
+        {
+          "type": "string",
+          "value": "Plug the adapter into an electrical socket.",
+          "children": null
+        },
+        {
+          "type": "image",
+          "value": "images/routers/ibr200_power_port.jpg",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "imageNames": [
+    "images/routers/ibr200_antenna_side1.jpg",
+    "images/routers/ibr200_antennas_side2.jpg",
+    "images/routers/ibr200_power_port.jpg",
+    "images/routers/ibr200_sim.jpg"
+  ],
+  "packageContents": [
+    "COR IBR200 LTE Router for IoT",
+    "AC Power Adapter",
+    "2 Modem Antennas",
+    "1 WiFi Antennas",
+    "1 Extra SIM Door Screw",
+    "Safety, Regulatory, and Warranty Guide"
+  ]
+}
