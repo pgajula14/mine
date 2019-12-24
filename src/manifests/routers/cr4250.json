@@ -1,0 +1,188 @@
+{
+  "productSpecification": [
+    {
+      "root": "WAN:",
+      "top_description": null,
+      "bottom_description": null,
+      "children": [
+        {
+          "type": "string",
+          "value": "8 10/100/1000 Ethernet ports (cable/DSL/T1/satellite/Metro Ethernet; WAN/LAN switchable)",
+          "children": null
+        },
+        {
+          "type": "string",
+          "value": "2 SFP/SFP+ (WAN/LAN switchable)",
+          "children": null
+        },
+        {
+          "type": "string",
+          "value": "SD-WAN",
+          "children": null
+        }
+      ]
+    },
+    {
+      "root": "LAN:",
+      "top_description": null,
+      "bottom_description": null,
+      "children": [
+        {
+          "type": "string",
+          "value": "8 10/100/1000 Ethernet ports (WAN/LAN switchable)",
+          "children": null
+        },
+        {
+          "type": "string",
+          "value": "2 SFP/SFP+ (WAN/LAN switchable)",
+          "children": null
+        }
+      ]
+    },
+    {
+      "root": "Temperature:",
+      "top_description": null,
+      "bottom_description": null,
+      "children": [
+        {
+          "type": "string",
+          "value": "0 °C to 40 °C (32 °F to 104 °F) operating",
+          "children": null
+        },
+        {
+          "type": "string",
+          "value": "-20 °C to 60 °C (-4 °F to 140 °F) storage",
+          "children": null
+        },
+        {
+          "type": "string",
+          "value": "Internal fans for reliable cooling",
+          "children": null
+        }
+      ]
+    },
+    {
+      "root": "Humidity (non-condensing):",
+      "top_description": null,
+      "bottom_description": null,
+      "children": [
+        {
+          "type": "string",
+          "value": "10% to 90% operating",
+          "children": null
+        },
+        {
+          "type": "string",
+          "value": "5% to 95% storage",
+          "children": null
+        }
+      ]
+    },
+    {
+      "root": "Processor:",
+      "top_description": null,
+      "bottom_description": null,
+      "children": [
+        {
+          "type": "string",
+          "value": "x86 4-core CPU @2.2 GHz with Intel Quick Assist Technology",
+          "children": null
+        }
+      ]
+    },
+    {
+      "root": "SIZE:",
+      "top_description": null,
+      "bottom_description": null,
+      "children": [
+        {
+          "type": "string",
+          "value": "13.2 × 8.3 × 1.8 in (335 × 210 × 45 mm)",
+          "children": null
+        },
+        {
+          "type": "string",
+          "value": "1U height for rack mount",
+          "children": null
+        }
+      ]
+    },
+    {
+      "root": "Weight:",
+      "top_description": null,
+      "bottom_description": null,
+      "children": [
+        {
+          "type": "string",
+          "value": "4 lb 4 oz (1.9 kg)",
+          "children": null
+        }
+      ]
+    },
+    {
+      "root": "CERTIFICATIONS:",
+      "top_description": null,
+      "bottom_description": null,
+      "children": [
+        {
+          "type": "string",
+          "value": "FRegulatory: FCC, CE, IC, RCM (Autstrailia/New Zealand), ICASA (South Africa)",
+          "children": null
+        },
+        {
+          "type": "string",
+          "value": "Safety: UL, CB Scheme",
+          "children": null
+        },
+        {
+          "type": "string",
+          "value": "Materials: RoHS",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "connectWan": "",
+  "insertSim": "",
+  "attachAnttena": "",
+  "powerOn": [
+    {
+      "root": "Connect the Power Source",
+      "top_description": null,
+      "bottom_description": null,
+      "children": [
+        {
+          "type": "string",
+          "value": "Plug the provided power supply (100-240V, 50-60Hz; 1.7A max without PoE, 4.1A max with PoE) into an electrical outlet. Then connect the power supply to the router.",
+          "children": null
+        },
+        {
+          "type": "image",
+          "value": "images/routers/cr4250_power_port.jpg",
+          "children": null
+        },
+        {
+          "type": "string",
+          "value": "Ensure power is switched on (O = OFF, – = ON)",
+          "children": null
+        },
+        {
+          "type": "string",
+          "value": "When you set the power switch to the ON ( – ) position; watch for the power LED to illuminate",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "imageNames": [
+    "images/routers/cr4250_ethernet_port.jpg",
+    "images/routers/cr4250_power_port.jpg"
+  ],
+  "packageContents": [
+    "CR4250 or CR4250-PoE",
+    "C8 line cord",
+    "Information on how to get started with your product",
+    "Warranty information",
+    "Rubber feet (4) for desk mounting"
+  ]
+}
