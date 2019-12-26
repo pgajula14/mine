@@ -1,7 +1,7 @@
 {
   "productSpecification": [
     {
-      "root": "WAN",
+      "root": "WAN:",
       "top_description": null,
       "bottom_description": null,
       "children": [
@@ -28,7 +28,7 @@
       ]
     },
     {
-      "root": "LAN",
+      "root": "LAN:",
       "top_description": null,
       "bottom_description": null,
       "children": [
@@ -50,7 +50,7 @@
       ]
     },
     {
-      "root": "PORTS",
+      "root": "PORTS:",
       "top_description": null,
       "bottom_description": null,
       "children": [
@@ -102,7 +102,7 @@
       ]
     },
     {
-      "root": "Temperature",
+      "root": "Temperature:",
       "top_description": null,
       "bottom_description": null,
       "children": [
@@ -114,7 +114,7 @@
       ]
     },
     {
-      "root": "Humidity (non-condensing)",
+      "root": "Humidity (non-condensing):",
       "top_description": null,
       "bottom_description": null,
       "children": [
@@ -131,7 +131,7 @@
       ]
     },
     {
-      "root": "POWER",
+      "root": "POWER:",
       "top_description": null,
       "bottom_description": null,
       "children": [
@@ -185,7 +185,7 @@
       ]
     },
     {
-      "root": "WIFI POWER (FCC)",
+      "root": "WIFI POWER (FCC):",
       "top_description": null,
       "bottom_description": null,
       "children": [
@@ -197,7 +197,7 @@
       ]
     },
     {
-      "root": "WIFI POWER (Europe/Rest of World)",
+      "root": "WIFI POWER (Europe/Rest of World):",
       "top_description": null,
       "bottom_description": null,
       "children": [
@@ -214,7 +214,7 @@
       ]
     },
     {
-      "root": "SIZE",
+      "root": "Size:",
       "top_description": null,
       "bottom_description": null,
       "children": [
@@ -226,7 +226,7 @@
       ]
     },
     {
-      "root": "WEIGHT",
+      "root": "Weight:",
       "top_description": null,
       "bottom_description": null,
       "children": [
