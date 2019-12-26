@@ -43,8 +43,8 @@
         {
           "type": "string",
           "value": "Insert the SIM card into the slot marked SIM 1 (use the other slot, SIM 2, for a secondary/backup SIM).",
-          "children": [
-            {
+          "children": null
+        },{
               "type": "string",
               "value": "NOTE: The modem door cover must be on the device or the embedded modem will not power on.",
               "children": null
@@ -54,8 +54,6 @@
               "value": "images/routers/ibr1700_ethernet_wan.jpg",
               "children": null
             }
-          ]
-        }
       ]
     },
     {
@@ -91,14 +89,13 @@
         {
           "type": "string",
           "value": "Replace the MC400 modem door cover.",
-          "children": [
-            {
+          "children": null
+        },
+        {
               "type": "string",
               "value": "NOTE: Remove the plastic SMA covers from the modem door cover for the additional antenna ports on the modem.",
               "children": null
-            }
-          ]
-        },
+            },
         {
           "type": "string",
           "value": "Secure with the door cover screw (beneath the device).",
