@@ -160,7 +160,24 @@
         {
           "type": "string",
           "value": "Power Consumption:",
-          "children": null
+          "children": [
+            {
+              "type": "string",
+              "value": "Idle: 4 W"
+            },
+            {
+              "type": "string",
+              "value": "WiFi Tx/Rx: 9 W"
+            },
+            {
+              "type": "string",
+              "value": "LTE Tx/Tx: 6.25 W"
+            },
+            {
+              "type": "string",
+              "value": "12 VDC / 2 A adapter recommended"
+            }
+          ]
         }
       ]
     }
