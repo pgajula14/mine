@@ -139,7 +139,7 @@
       ]
     }
   ],
-  "connectWan": [],
+  "connectWan": null,
   "insertSim": [
     {
       "root": "Insert an Activated SIM",
