@@ -125,6 +125,61 @@
           "children": null
         }
       ]
+    },
+    {
+      "root": "POWER:",
+      "top_description": null,
+      "bottom_description": null,
+      "children": [
+        {
+          "type": "string",
+          "value": "DC input steady state voltage range: 9–33 VDC (requires inline fuse for vehicle installations)",
+          "children": [
+            {
+              "type": "string",
+              "value": "For 9–24 VDC installations, use a 3 A fuse",
+              "children": null
+            },
+            {
+              "type": "string",
+              "value": "For > 24 VDC installations, use a 2.5 A fuse",
+              "children": null
+            }
+          ]
+        },
+        {
+          "type": "string",
+          "value": "Reverse polarity and transient voltage protection per ISO 7637-2",
+          "children": null
+        },
+        {
+          "type": "string",
+          "value": "Ignition sensing (automatic ON and time-delay OFF)",
+          "children": null
+        },
+        {
+          "type": "string",
+          "value": "Power Consumption:",
+          "children": [
+            {
+              "type": "String",
+              "value": "Idle: 4 W"
+            },
+            {
+              "type": "String",
+              "value": "WiFi Tx/Rx: 9 W"
+            },
+            {
+              "type": "String",
+              "value": "LTE Tx/Tx: 6.25 W"
+            },
+            {
+              "type": "String",
+              "value": "12 VDC / 2 A adapter recommended"
+            }
+          ]
+        }
+      ]
     }
     ],
   "connectWan": [
