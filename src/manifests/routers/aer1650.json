@@ -285,13 +285,12 @@
         {
           "type": "string",
           "value": "Insert a second activated SIM card into the SIM 2 card slot, if desired.",
-          "children": [
-            {
-              "type": "image",
-              "value": "images/routers/16x0_sims_1.jpg",
-              "children": null
-            }
-          ]
+          "children": null
+        },
+        {
+           "type": "image",
+           "value": "images/routers/16x0_sims_1.jpg",
+           "children": null
         }
       ]
     },
@@ -308,13 +307,12 @@
         {
           "type": "string",
           "value": "Remove the modem door on the AER1650 Series device.",
-          "children": [
-            {
-              "type": "image",
-              "value": "images/routers/16x0_mc400_slot_1.jpg",
-              "children": null
-            }
-          ]
+          "children": null
+        },
+        {
+          "type": "image",
+          "value": "images/routers/16x0_mc400_slot_1.jpg",
+          "children": null
         },
         {
           "type": "string",
