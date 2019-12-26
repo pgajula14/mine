@@ -146,7 +146,7 @@
       ]
     },
     {
-      "root": "POWER:",
+      "root": "Power:",
       "top_description": null,
       "bottom_description": null,
       "children": [
@@ -201,7 +201,7 @@
       ]
     },
     {
-      "root": "WIFI POWER:",
+      "root": "WIFI Power:",
       "top_description": null,
       "bottom_description": null,
       "children": [
@@ -228,7 +228,7 @@
       ]
     },
     {
-      "root": "WIFI POWER (Europe/Rest of World):",
+      "root": "WIFI Power (Europe/Rest of World):",
       "top_description": null,
       "bottom_description": null,
       "children": [
@@ -245,7 +245,7 @@
       ]
     },
     {
-      "root": "SIZE:",
+      "root": "Size:",
       "top_description": null,
       "bottom_description": null,
       "children": [
@@ -257,7 +257,7 @@
       ]
     },
     {
-      "root": "WEIGHT:",
+      "root": "Weight:",
       "top_description": null,
       "bottom_description": null,
       "children": [
@@ -469,7 +469,7 @@
         },
         {
           "type": "string",
-          "value": "RReplace the SIM door cover and secure with the screws.",
+          "value": "Replace the SIM door cover and secure with the screws.",
           "children": null
         }
       ]
@@ -498,7 +498,7 @@
         },
         {
           "type": "image",
-          "value": "images/routers/ibr900-antennas-side2.jpg",
+          "value": "images/routers/ibr900_antennas_side2.jpg",
           "children": null
         },
         {
