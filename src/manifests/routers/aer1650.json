@@ -112,7 +112,7 @@
       ]
     },
     {
-      "root": "SIZE:",
+      "root": "Size:",
       "top_description": null,
       "bottom_description": null,
       "children": [
@@ -129,7 +129,7 @@
       ]
     },
     {
-      "root": "WEIGHT:",
+      "root": "Weight:",
       "top_description": null,
       "bottom_description": null,
       "children": [
@@ -153,7 +153,7 @@
       ]
     },
     {
-      "root": "WIFI POWER (FCC):",
+      "root": "WIFI Power (FCC):",
       "top_description": null,
       "bottom_description": null,
       "children": [
@@ -175,7 +175,7 @@
       ]
     },
     {
-      "root": "WIFI POWER (Europe/Rest of World):",
+      "root": "WIFI Power (Europe/Rest of World):",
       "top_description": null,
       "bottom_description": null,
       "children": [
