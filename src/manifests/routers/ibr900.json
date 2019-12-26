@@ -24,6 +24,10 @@
           "type": "string",
           "value": "Two LAN/WAN switchable 10/100/1000 Gigabit Ethernet ports – one default WAN (cable/DSL/T1/satellite/Metro Ethernet)",
           "children": null
+        },{
+          "type": "string",
+          "value": "WiFi-as-WAN, Metro WiFi; 2×2 MIMO “N” 2.4 GHz or 5 GHz; 802.11 a/b/g/n/ac wave 2 (IBR900 only)",
+          "children": null
         }
       ]
     },
@@ -141,7 +145,7 @@
       ]
     },
     {
-      "root": "POWER:",
+      "root": "Power:",
       "top_description": null,
       "bottom_description": null,
       "children": [
@@ -196,7 +200,7 @@
       ]
     },
     {
-      "root": "WIFI POWER:",
+      "root": "WIFI Power:",
       "top_description": null,
       "bottom_description": null,
       "children": [
@@ -223,7 +227,7 @@
       ]
     },
     {
-      "root": "WIFI POWER (Europe/Rest of World):",
+      "root": "WIFI Power (Europe/Rest of World):",
       "top_description": null,
       "bottom_description": null,
       "children": [
@@ -240,7 +244,7 @@
       ]
     },
     {
-      "root": "SIZE:",
+      "root": "Size:",
       "top_description": null,
       "bottom_description": null,
       "children": [
@@ -252,7 +256,7 @@
       ]
     },
     {
-      "root": "WEIGHT:",
+      "root": "Weight:",
       "top_description": null,
       "bottom_description": null,
       "children": [
@@ -334,7 +338,11 @@
           "type": "string",
           "value": "Concurrent standalone GPS, GLONASS, BeiDou and Galileo",
           "children": null
-        },
+        },{
+          "type": "string",
+          "value": "1 Hz refresh rate",
+          "children": null
+        }
         {
           "type": "string",
           "value": "Accuracy:",
@@ -494,7 +502,7 @@
         },
         {
           "type": "image",
-          "value": "images/routers/ibr900-antennas-side2.jpg",
+          "value": "images/routers/ibr900_antennas_side2.jpg",
           "children": null
         },
         {
