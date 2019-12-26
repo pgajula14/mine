@@ -99,6 +99,32 @@
           "children": null
         }
       ]
+    },{
+      "root": "Temperature:",
+      "top_description": null,
+      "bottom_description": null,
+      "children": [
+        {
+          "type": "string",
+          "value": "-30 °C to 70 °C (-22 °F to 158 °F) operating with optional* 9-wire power and GPIO cable (Part #170680-000)",
+          "children": null
+        },
+        {
+          "type": "string",
+          "value": "30 °C to 70 °C (-22 °F to 158 °F) operating with optional extended temperature AC power supply (Part #170648-000; see this page for line cord details)",
+          "children": null
+        },
+        {
+          "type": "string",
+          "value": "-20 °C to 60 °C (-4 °F to 140 °F) operating with included† standard AC power supply",
+          "children": null
+        },
+        {
+          "type": "string",
+          "value": "-40 °C to 85 °C (-40 °F to 185 °F) storage",
+          "children": null
+        }
+      ]
     }
     ],
   "connectWan": [
