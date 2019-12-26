@@ -131,7 +131,7 @@
       ]
     },
     {
-      "root": "POWER:",
+      "root": "Power:",
       "top_description": null,
       "bottom_description": null,
       "children": [
@@ -185,7 +185,7 @@
       ]
     },
     {
-      "root": "WIFI POWER (FCC):",
+      "root": "WIFI Power (FCC):",
       "top_description": null,
       "bottom_description": null,
       "children": [
@@ -197,7 +197,7 @@
       ]
     },
     {
-      "root": "WIFI POWER (Europe/Rest of World):",
+      "root": "WIFI Power (Europe/Rest of World):",
       "top_description": null,
       "bottom_description": null,
       "children": [
@@ -276,14 +276,13 @@
         {
           "type": "string",
           "value": "Insert the secondary SIM card into the SIM2 slot if desired.",
-          "children": [
-            {
-              "type": "image",
-              "value": "images/routers/ibr600c-sims.jpg",
-              "children": null
-            }
-          ]
+          "children": null
         },
+        {
+          "type": "image",
+          "value": "images/routers/ibr600c_sims.jpg",
+          "children": null
+        }
         {
           "type": "string",
           "value": "Replace the SIM door cover and secure with the screws.",
@@ -315,7 +314,7 @@
         },
         {
           "type": "image",
-          "value": "images/routers/ibr600c-antennas-side2.jpg",
+          "value": "images/routers/ibr600c_antennas_side2.jpg",
           "children": null
         },
         {
