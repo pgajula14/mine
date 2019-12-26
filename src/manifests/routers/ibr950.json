@@ -1,5 +1,6 @@
 {
-  "productSpecification": [{
+  "productSpecification": [
+    {
       "root": "WAN:",
       "top_description": null,
       "bottom_description": null,
@@ -99,7 +100,8 @@
           "children": null
         }
       ]
-    },{
+    },
+    {
       "root": "Temperature:",
       "top_description": null,
       "bottom_description": null,
@@ -122,6 +124,23 @@
         {
           "type": "string",
           "value": "-40 °C to 85 °C (-40 °F to 185 °F) storage",
+          "children": null
+        }
+      ]
+    },
+    {
+      "root": "Humidity (non-condensing):",
+      "top_description": null,
+      "bottom_description": null,
+      "children": [
+        {
+          "type": "string",
+          "value": "5% to 95% operating",
+          "children": null
+        },
+        {
+          "type": "string",
+          "value": "5% to 95% storage",
           "children": null
         }
       ]
@@ -180,8 +199,228 @@
           ]
         }
       ]
+    },
+    {
+      "root": "WIFI POWER:",
+      "top_description": null,
+      "bottom_description": null,
+      "children": [
+        {
+          "type": "string",
+          "value": "2.4 GHz: 18 dBm conducted",
+          "children": null
+        },
+        {
+          "type": "string",
+          "value": "5 GHz VHT20: 17.5 dBm conducted",
+          "children": null
+        },
+        {
+          "type": "string",
+          "value": "5 GHz VHT40: 17 dBm conducted",
+          "children": null
+        },
+        {
+          "type": "string",
+          "value": "5 GHz VHT80: 16.5 dBm conducted",
+          "children": null
+        }
+      ]
+    },
+    {
+      "root": "WIFI POWER (Europe/Rest of World):",
+      "top_description": null,
+      "bottom_description": null,
+      "children": [
+        {
+          "type": "string",
+          "value": "2.4 GHz band: 15 dBm conducted",
+          "children": null
+        },
+        {
+          "type": "string",
+          "value": "22.4 GHz band: 20 dBm EIRP",
+          "children": null
+        }
+      ]
+    },
+    {
+      "root": "SIZE:",
+      "top_description": null,
+      "bottom_description": null,
+      "children": [
+        {
+          "type": "string",
+          "value": "4.6 × 4.5 × 1.2 in (118 × 113.5 × 29.3 mm)",
+          "children": null
+        }
+      ]
+    },
+    {
+      "root": "WEIGHT:",
+      "top_description": null,
+      "bottom_description": null,
+      "children": [
+        {
+          "type": "string",
+          "value": "14 oz (400 g)",
+          "children": null
+        }
+      ]
+    },
+    {
+      "root": "Certifications:",
+      "top_description": null,
+      "bottom_description": null,
+      "children": [
+        {
+          "type": "string",
+          "value": "WiFi Alliance (IBR900 only) – 802.11a/b/g/n/ac wave 2 certified",
+          "children": null
+        },
+        {
+          "type": "string",
+          "value": "Safety: UL/CUL, CB Scheme, EN60950-1",
+          "children": null
+        },
+        {
+          "type": "string",
+          "value": "Hazardous Locations: Class1, Div 2. IBR900-600M-NA only.",
+          "children": null
+        },
+        {
+          "type": "string",
+          "value": "Shock/Vibration/Humidity: Compliant with MIL STD 810G and SAEJ1455",
+          "children": null
+        },
+        {
+          "type": "string",
+          "value": "Ingress Protection: Compliant with IP54 (includes protection from dust and splashing water)",
+          "children": null
+        },
+        {
+          "type": "string",
+          "value": "Materials: WEEE, RoHS, RoHS-2, California Prop 65",
+          "children": null
+        },
+        {
+          "type": "string",
+          "value": "Telecom: PTCRB/CTIA, GCF-CC",
+          "children": null
+        },
+        {
+          "type": "string",
+          "value": "Regulatory Models: S5A643A, S5A644A, S5A648A, S5A701A, S5A706A, S5A843A, S5A848A",
+          "children": null
+        },
+        {
+          "type": "string",
+          "value": "FIPS 140-2 Inside",
+          "children": null
+        }
+      ]
+    },
+    {
+      "root": "GPS:",
+      "top_description": null,
+      "bottom_description": null,
+      "children": [
+        {
+          "type": "string",
+          "value": "GPS Protocols: TAIP and NMEA 0183 V3.0",
+          "children": null
+        },
+        {
+          "type": "string",
+          "value": "Satellite channels: Maximum 55 channels, simultaneous tracking",
+          "children": null
+        },
+        {
+          "type": "string",
+          "value": "Concurrent standalone GPS, GLONASS, BeiDou and Galileo",
+          "children": null
+        },
+        {
+          "type": "string",
+          "value": "1 Hz refresh rate",
+          "children": null
+        },
+        {
+          "type": "string",
+          "value": "Accuracy:",
+          "children": [
+            {
+              "type": "string",
+              "value": "< 2 m: 50%",
+              "children": null
+            },
+            {
+              "type": "string",
+              "value": "< 5 m: 90%",
+              "children": null
+            },
+            {
+              "type": "string",
+              "value": "Horizontal: < 2 m (50%); < 5 m (90%)",
+              "children": null
+            },
+            {
+              "type": "string",
+              "value": "Altitude: < 4 m (50%); < 8 m (90%)",
+              "children": null
+            },
+            {
+              "type": "string",
+              "value": "Velocity: < 0.2 m/s",
+              "children": null
+            }
+          ]
+        },
+        {
+          "type": "string",
+          "value": "Acquisition (measured with signal strength = -145 dBm):",
+          "children": [
+            {
+              "type": "string",
+              "value": "Hot start: 1 second",
+              "children": null
+            },
+            {
+              "type": "string",
+              "value": "Warm start: 29 seconds",
+              "children": null
+            },
+            {
+              "type": "string",
+              "value": "Tracking: -160 dBm (tracking sensitivity is the lowest GNSS signal level for which the device can still detect an in-view satellite 50% of the time when in sequential tracking mode)",
+              "children": null
+            }
+          ]
+        },
+        {
+          "type": "string",
+          "value": "Sensitivity:",
+          "children": [
+            {
+              "type": "string",
+              "value": "Cold start: 32 seconds",
+              "children": null
+            },
+            {
+              "type": "string",
+              "value": "Acquisition (standalone): -145 dBm (acquisition sensitivity is the lowest GNSS signal level for which the device can still detect an in-view satellite 50% of the time)",
+              "children": null
+            }
+          ]
+        },
+        {
+          "type": "string",
+          "value": "Operational limits: Altitude < 6000 m or velocity < 100 m/s (either limit may be exceeded, but not both)",
+          "children": null
+        }
+      ]
     }
-    ],
+  ],
   "connectWan": [
     {
       "root": "Connect wired wan",
