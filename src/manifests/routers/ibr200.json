@@ -248,13 +248,12 @@
         {
           "type": "string",
           "value": "Attach the two LTE and one WiFi antennas (included) to the connectors. The antennas are jointed, which enables positioning for optimal signal reception.",
-          "children": [
-            {
-              "type": "string",
-              "value": "NOTE: Cellular antennas include RP-SMA connectors (pin in the center on the antenna) while WiFi antennas include SMA connectors (pin in the center on the device connection point). Ensure you connect the correct antennas to their applicable connection locations.",
-              "children": null
-            }
-          ]
+          "children": null
+        },
+        {
+          "type": "string",
+          "value": "NOTE: Cellular antennas include RP-SMA connectors (pin in the center on the antenna) while WiFi antennas include SMA connectors (pin in the center on the device connection point). Ensure you connect the correct antennas to their applicable connection locations.",
+          "children": null
         },
         {
           "type": "image",
