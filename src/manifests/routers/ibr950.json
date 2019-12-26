@@ -30,6 +30,28 @@
           "children": null
         }
       ]
+    },
+    {
+      "root": "LAN:",
+      "top_description": null,
+      "bottom_description": null,
+      "children": [
+        {
+          "type": "string",
+          "value": "Dual-band, dual-concurrent WiFi; 802.11 a/b/g/n/ac wave 2 (IBR900 only)",
+          "children": null
+        },
+        {
+          "type": "string",
+          "value": "Two LAN/WAN switchable 10/100/1000 Gigabit Ethernet ports – one default LAN",
+          "children": null
+        },
+        {
+          "type": "string",
+          "value": "Serial console support for Out-of-Band Management of a connected device",
+          "children": null
+        }
+      ]
     }],
   "connectWan": [
     {
