@@ -59,7 +59,7 @@
       ]
     },
     {
-      "root": "POWER:",
+      "root": "Power:",
       "top_description": null,
       "bottom_description": null,
       "children": [
@@ -71,7 +71,7 @@
       ]
     },
     {
-      "root": "POWER CONSUMPTION (Typical):",
+      "root": "POWER Consumption(Typical):",
       "top_description": null,
       "bottom_description": null,
       "children": [
@@ -88,7 +88,7 @@
       ]
     },
     {
-      "root": "SIZE:",
+      "root": "Size:",
       "top_description": null,
       "bottom_description": null,
       "children": [
@@ -100,7 +100,7 @@
       ]
     },
     {
-      "root": "HOUSING:",
+      "root": "Housing:",
       "top_description": null,
       "bottom_description": null,
       "children": [
@@ -117,7 +117,7 @@
       ]
     },
     {
-      "root": "CERTIFICATIONS:",
+      "root": "Certifications:",
       "top_description": null,
       "bottom_description": null,
       "children": [
@@ -175,53 +175,10 @@
           "type": "string",
           "value": "Slide the SIM door cover to the right to cover the SIM slots.",
           "children": null
-        }
-      ]
-    },
-    {
-      "root": "Insert External MC400 Modem (optional)",
-      "top_description": null,
-      "bottom_description": null,
-      "children": [
-        {
-          "type": "string",
-          "value": "The IBR1700 has a slot for second, removable modem (MC400).",
-          "children": null
         },
         {
           "type": "string",
-          "value": "Insert an activated 2FF-sized SIM card into the MC400 modem, metal contacts down, notch end first.",
-          "children": null
-        },
-        {
-          "type": "image",
-          "value": "images/routers/ibr1700_mc400_slot.jpg",
-          "children": null
-        },
-        {
-          "type": "string",
-          "value": "Remove the modem door on the IBR1700 device.",
-          "children": null
-        },
-        {
-          "type": "string",
-          "value": "Slide the MC400 modem into the available modem slot, USB plug first, with the Cradlepoint logo facing up.",
-          "children": null
-        },
-        {
-          "type": "string",
-          "value": "Replace the MC400 modem door cover.",
-          "children": [
-            {
-              "type": "string",
-              "value": "NOTE: Remove the plastic SMA covers from the modem door cover for the additional antenna ports on the modem.",
-              "children": null
-            }
-          ]
-        },
-        {
-          "type": "string",
-          "value": "Secure with the door cover screw (beneath the device).",
+          "value": "Insert the screw into the closed SIM cover and tighten.",
           "children": null
         }
       ]
@@ -275,18 +232,17 @@
         {
           "type": "string",
           "value": "Connect LAN port to PoE enabled networking equipment to Passthrough 3G/4G Internet to Ethernet and receive power.",
-          "children": [
-            {
-              "type": "string",
-              "value": "NOTE: If the router does not support PoE or does not have a PoE capable port, use a PoE injector optional accessory between the CBA550 and the router for power.",
-              "children": null
-            },
-            {
-              "type": "image",
-              "value": "images/routers/cba550_poe_port.jpg",
-              "children": null
-            }
-          ]
+          "children": null
+        },
+        {
+          "type": "string",
+          "value": "NOTE: If the router does not support PoE or does not have a PoE capable port, use a PoE injector optional accessory between the CBA550 and the router for power.",
+          "children": null
+        },
+        {
+          "type": "image",
+          "value": "images/routers/cba550_poe_port.jpg",
+          "children": null
         }
       ]
     }
