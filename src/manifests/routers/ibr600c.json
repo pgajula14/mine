@@ -257,7 +257,7 @@
           "value": "Insert the secondary SIM card into the SIM2 slot if desired.",
           "children": [{
             "type": "image",
-            "value": "images/routers/ibr600c-sims.jpg",
+            "value": "images/routers/ibr600c_sims.jpg",
             "children": null
           }]
         },
