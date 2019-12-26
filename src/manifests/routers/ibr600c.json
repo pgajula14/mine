@@ -302,7 +302,12 @@
     "bottom_description": null,
     "children": [{
         "type": "string",
-        "value": "Insert four-pin end of the AC adapter to the four-pin port on the router. Plug the adapter into an electrical socket.",
+        "value": "Insert four-pin end of the AC adapter to the four-pin port on the router.",
+        "children": null
+      },
+      {
+        "type": "string",
+        "value": "Plug the adapter into an electrical socket.",
         "children": null
       },
       {
