@@ -1,7 +1,7 @@
 {
   "productSpecification": [
     {
-      "root": "WAN",
+      "root": "WAN:",
       "top_description": null,
       "bottom_description": null,
       "children": [
@@ -23,7 +23,7 @@
       ]
     },
     {
-      "root": "LAN",
+      "root": "LAN:",
       "top_description": null,
       "bottom_description": null,
       "children": [
@@ -35,7 +35,7 @@
       ]
     },
     {
-      "root": "PORTS",
+      "root": "PORTS:",
       "top_description": null,
       "bottom_description": null,
       "children": [
@@ -72,7 +72,7 @@
       ]
     },
     {
-      "root": "Temperature",
+      "root": "Temperature:",
       "top_description": null,
       "bottom_description": null,
       "children": [
@@ -89,7 +89,7 @@
       ]
     },
     {
-      "root": "Humidity (non-condensing)",
+      "root": "Humidity (non-condensing):",
       "top_description": null,
       "bottom_description": null,
       "children": [
@@ -106,7 +106,7 @@
       ]
     },
     {
-      "root": "POWER",
+      "root": "Power:",
       "top_description": null,
       "bottom_description": null,
       "children": [
@@ -145,11 +145,11 @@
               "value": "IBR600B",
               "children": [
                 {
-                  "type": "String",
+                  "type": "string",
                   "value": "Idle: 1.98 W"
                 },
                 {
-                  "type": "String",
+                  "type": "string",
                   "value": "Max: 12.24 W"
                 }
               ]
@@ -159,11 +159,11 @@
               "value": "IBR650B",
               "children": [
                 {
-                  "type": "String",
+                  "type": "string",
                   "value": "Idle: 1.5 W"
                 },
                 {
-                  "type": "String",
+                  "type": "string",
                   "value": "Max: 10.08 W"
                 }
               ]
