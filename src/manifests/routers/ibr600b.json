@@ -145,11 +145,11 @@
               "value": "IBR600B",
               "children": [
                 {
-                  "type": "String",
+                  "type": "string",
                   "value": "Idle: 1.98 W"
                 },
                 {
-                  "type": "String",
+                  "type": "string",
                   "value": "Max: 12.24 W"
                 }
               ]
@@ -159,11 +159,11 @@
               "value": "IBR650B",
               "children": [
                 {
-                  "type": "String",
+                  "type": "string",
                   "value": "Idle: 1.5 W"
                 },
                 {
-                  "type": "String",
+                  "type": "string",
                   "value": "Max: 10.08 W"
                 }
               ]
