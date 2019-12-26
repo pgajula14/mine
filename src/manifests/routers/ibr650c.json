@@ -282,7 +282,7 @@
           "type": "image",
           "value": "images/routers/ibr600c_sims.jpg",
           "children": null
-        }
+        },
         {
           "type": "string",
           "value": "Replace the SIM door cover and secure with the screws.",
