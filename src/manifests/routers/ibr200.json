@@ -105,19 +105,19 @@
           "value": "Power consumption:",
           "children": [
             {
-              "type": "String",
+              "type": "string",
               "value": "Conditions: 12V input, room temperature"
             },
             {
-              "type": "String",
+              "type": "string",
               "value": "Idle: 2.7W (1.8W w/WiFi off)"
             },
             {
-              "type": "String",
+              "type": "string",
               "value": "Typical: 3.6 W (2.8W w/WiFi off)"
             },
             {
-              "type": "String",
+              "type": "string",
               "value": "Heavy Usage: 5.8 W"
             }
           ]
