@@ -1,24 +1,36 @@
 {
-  "productSpecification": [
-    {
-      "root": "Humidity (non-condensing):",
+  "productSpecification": [{
+      "root": "WAN:",
       "top_description": null,
       "bottom_description": null,
       "children": [
         {
           "type": "string",
-          "value": "5% to 95% operating",
+          "value": "Dual-modem capable with optional COR Extensibility Dock",
           "children": null
         },
         {
           "type": "string",
-          "value": "5% to 95% storage",
+          "value": "Embedded 1200M LTE Advanced Pro modem (with DC-HSPA+ failover), delivering 1 Gbps**",
+          "children": null
+        },
+        {
+          "type": "string",
+          "value": "Embedded 600M LTE Advanced 600 Mbps modem (with DC-HSPA+ failover)",
+          "children": null
+        },
+        {
+          "type": "string",
+          "value": "Two LAN/WAN switchable 10/100/1000 Gigabit Ethernet ports – one default WAN (cable/DSL/T1/satellite/Metro Ethernet)",
+          "children": null
+        },
+        {
+          "type": "string",
+          "value": "WiFi-as-WAN, Metro WiFi; 2×2 MIMO “N” 2.4 GHz or 5 GHz; 802.11 a/b/g/n/ac wave 2 (IBR900 only)",
           "children": null
         }
       ]
-    }
-    ]
-  ,
+    }],
   "connectWan": [
     {
       "root": "Connect wired wan",
