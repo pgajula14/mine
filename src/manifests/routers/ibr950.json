@@ -52,7 +52,55 @@
           "children": null
         }
       ]
-    }],
+    },
+    {
+      "root": "PORTS:",
+      "top_description": null,
+      "bottom_description": null,
+      "children": [
+        {
+          "type": "string",
+          "value": "4-Wire power/GPIO",
+          "children": null
+        },
+        {
+          "type": "string",
+          "value": "Add more GPIO ports with optional 9-wire power/GPIO cable or COR Extensibility Dock with 2x10-wire power/GPIO cable",
+          "children": null
+        },
+        {
+          "type": "string",
+          "value": "USB 2.0",
+          "children": null
+        },
+        {
+          "type": "string",
+          "value": "Two Ethernet LAN/WAN",
+          "children": null
+        },
+        {
+          "type": "string",
+          "value": "Two cellular antenna connectors (SMA))",
+          "children": null
+        },
+        {
+          "type": "string",
+          "value": "One active GPS antenna connector (SMA)",
+          "children": null
+        },
+        {
+          "type": "string",
+          "value": "Two WiFi antenna connectors (RP-SMA)",
+          "children": null
+        },
+        {
+          "type": "string",
+          "value": "15-pin dock port for COR Extensibility Dock, 9-wire GPIO cable, or COR Extensibility Port to Serial Cable",
+          "children": null
+        }
+      ]
+    }
+    ],
   "connectWan": [
     {
       "root": "Connect wired wan",
