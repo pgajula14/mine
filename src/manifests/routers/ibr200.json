@@ -152,7 +152,7 @@
       ]
     },
     {
-      "root": "SIZE:",
+      "root": "Size:",
       "top_description": null,
       "bottom_description": null,
       "children": [
@@ -164,7 +164,7 @@
       ]
     },
     {
-      "root": "WEIGHT:",
+      "root": "Weight:",
       "top_description": null,
       "bottom_description": null,
       "children": [
