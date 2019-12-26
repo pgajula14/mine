@@ -91,7 +91,7 @@
       ]
     },
     {
-      "root": "POWER:",
+      "root": "Power:",
       "top_description": null,
       "bottom_description": null,
       "children": [
@@ -125,7 +125,7 @@
       ]
     },
     {
-      "root": "WIFI POWER (FCC):",
+      "root": "WIFI Power (FCC):",
       "top_description": null,
       "bottom_description": null,
       "children": [
