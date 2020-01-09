@@ -1,6 +1,6 @@
 {
   "jsonBaseUrl":"https://raw.githubusercontent.com/pgajula14/mine/master/",
-  "webstyle":"<style>li{margin: 2px 0;font-family:'arial';}p{font-family:'arial';}</style>",
+  "webstyle":"<style>li{margin: 2px 0px 2px 8px;padding-left:2px;padding-right:0px;text-indent: -4px; text-align='justify'; font-family:'arial';}ul{margin: 2px 0px 2px 20px;padding-left:0px;padding-right:0px;text-indent: -4px; text-align='justify'; font-family:'arial';}p{margin: 2px 8px;padding-left:2px;padding-right:2px;font-family:'arial';text-align='justify';}</style>",
   "imageurls" :["Routers/IMAGES/ibr600b-wan-port.jpg","Routers/IMAGES/ibr600b-sims.jpg","Routers/IMAGES/ibr600b-ext-port.jpg","Routers/IMAGES/ibr600b-antennas-side1.jpg","Routers/IMAGES/ibr600b-antennas-side2.jpg","Routers/IMAGES/ibr600b-power-port-revised.jpg"],
   "packagecontents":["One IBR600B series IoT router with an embedded business-class LTE modem featuring an integrated mounting plate","Two external mobile broadband modem antennas (SMA)","Two external WiFi antennas (RP-SMA)","Two extra SIM door screws","An AC power adapter","Safety, Warranty, and Regulatory Guide"],
   "getConnect":"<p data-aura-rendered-by='12:182;a'><p data-aura-rendered-by='12:182;a'><strong>Connecting a Wired WAN</strong></p><p data-aura-rendered-by='12:182;a'>Connect your Ethernet WAN source to the WAN port(Port WAN is default WAN. All ports are LAN/WAN switchable).</p><img src='Routers/IMAGES/ibr600b-wan-port.jpg' width=100% alt=''>",
