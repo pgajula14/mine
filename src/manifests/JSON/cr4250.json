@@ -21,9 +21,9 @@
 		"text": "(1) Safety, regulatory, and warranty guide",
 		"image": ""
 	}],
-	"getConnect": "<p data-aura-rendered-by='12:182;a'><strong>Connecting a wired WAN</strong></p>&nbsp<p data-aura-rendered-by='12:182;a'>Connect the provided Ethernet cable to the WAN port of the router (Port 0 is default WAN. All ports are LAN/WAN switchable). Connect the other end to your WAN source.</p>&nbsp <img src='images/routers/CR4250_Ethernet.png' width=100% alt=''>",
+	"getConnect": "<p data-aura-rendered-by='12:182;a'> <strong>Connecting a wired WAN</strong></p>&nbsp<p data-aura-rendered-by='12:182;a'>Connect the provided Ethernet cable to the WAN port of the router (Port 0 is default WAN. All ports are LAN/WAN switchable). Connect the other end to your WAN source.</p>&nbsp <img src='images/routers/CR4250_Ethernet.png' width=100% alt=''>",
 	"insertSim": "",
 	"attachAnttena": "",
 	"clickanduploadpics": "",
-	"poweron": "<p data-aura-rendered-by='12:182;a'><strong>Connecting the Power Source</strong></p><ol data-aura-rendered-by='12:182;a'><li>Plug the provided C13 power cord into an electrical outlet. Then connect the power supply to the router.</li><li> Switch the device to ON (O = OFF, – = ON). The LED lights will begin lighting up</li></ol> <img src='images/routers/CR4250_Power.png' width=100% alt=''></li><ol start='2' data-aura-rendered-by='12:182;a'><li>Ensure power is switched on (O = OFF, – = ON)</li></ol><ol start='3' data-aura-rendered-by='12:182;a'><li>When you set the power switch to the ON ( – ) position; watch for the power LED to illuminate.</li></ol>"
+	"poweron": "<p data-aura-rendered-by='12:182;a'> <strong>Connecting the Power Source</strong></p><ol data-aura-rendered-by='12:182;a'><li>Plug the provided C13 power cord into an electrical outlet. Then connect the power supply to the router.</li><li> Switch the device to ON (O = OFF, – = ON). The LED lights will begin lighting up</li></ol> <img src='images/routers/CR4250_Power.png' width=100% alt=''></li> "
 }
