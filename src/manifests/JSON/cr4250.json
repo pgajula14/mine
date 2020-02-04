@@ -21,7 +21,7 @@
 		"text": "(1) Safety, regulatory, and warranty guide",
 		"image": ""
 	}],
-	"getConnect": "<p data-aura-rendered-by='12:182;a'> <strong>Connecting a wired WAN</strong></p>&nbsp<ol><li><p data-aura-rendered-by='12:182;a'>Connect the provided Ethernet cable to the WAN port of the router (Port 0 is default WAN. All ports are LAN/WAN switchable). Connect the other end to your WAN source.</p>&nbsp</li></ol> <img src='images/routers/cr4250_ethernet.png' width=100% alt=''>",
+	"getConnect": "<p data-aura-rendered-by='12:182;a'> <strong>Connecting a wired WAN</strong></p><ol><li><p data-aura-rendered-by='12:182;a'>Connect the provided Ethernet cable to the WAN port of the router (Port 0 is default WAN. All ports are LAN/WAN switchable). Connect the other end to your WAN source.</p>&nbsp</li></ol> <img src='images/routers/cr4250_ethernet.png' width=100% alt=''>",
 	"insertSim": "",
 	"attachAnttena": "",
 	"clickanduploadpics": "",
