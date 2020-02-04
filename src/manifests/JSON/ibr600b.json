@@ -8,10 +8,35 @@
 		"images/routers/ibr600b_antennas_side2.jpg",
 		"images/routers/ibr600b_power_port_revised.jpg"
 	],
-	"packagecontents": ["One IBR600B series IoT router with an embedded business-class LTE modem featuring an integrated mounting plate", "Two external mobile broadband modem antennas (SMA)", "Two external WiFi antennas (RP-SMA)", "Two extra SIM door screws", "An AC power adapter", "Safety, Warranty, and Regulatory Guide"],
+	"packagecontents": [
+	  {
+	    "text":"One IBR600B series IoT router with an embedded business-class LTE modem featuring an integrated mounting plate", 
+	    "image":""
+	  },
+	  {
+	    "text":"Two external mobile broadband modem antennas (SMA)", 
+	    "image":""
+	  },
+	  {
+	    "text":"Two external WiFi antennas (RP-SMA)", 
+	    "image":""
+	  },
+	  {
+	    "text":"Two extra SIM door screws", 
+	    "image":""
+	  },
+	  {
+	    "text":"An AC power adapter", 
+	    "image":""
+	  },
+	  {
+	    "text":"Safety, Warranty, and Regulatory Guide", 
+	    "image":""
+	  }],
 	"getConnect": "<p data-aura-rendered-by='12:182;a'><p data-aura-rendered-by='12:182;a'><strong>Connecting a Wired WAN</strong></p><p data-aura-rendered-by='12:182;a'>Connect your Ethernet WAN source to the WAN port (Port WAN is default WAN. All ports are LAN/WAN switchable).</p><img src='images/routers/ibr600b_wan_port.jpg' width=100% alt=''>",
 	"insertSim": "<p data-aura-rendered-by='12:182;a'><p style='margin-left: 15px;' data-aura-rendered-by='12:182;a'><strong>Insert an Activated SIM</strong></p><ol data-aura-rendered-by='12:182;a'><li>Unscrew and remove the SIM cover from the router.</li><li>Insert the card into the SIM1 slot, metal contacts down and notch in. It will click into place. Depress again to remove.</li><li>Insert the secondary SIM card into the SIM2 slot if desired.</li></ol><img src='images/routers/ibr600b_sims.jpg' width=100% alt=''><ol start='4' data-aura-rendered-by='12:182;a'><li>Replace the SIM door cover and secure with the screws.</li></ol>",
 	"attachAnttena": "<p data-aura-rendered-by='12:182;a'><p data-aura-rendered-by='12:182;a'><strong>Attach the Antennas</strong></p><ol data-aura-rendered-by='12:182;a'><li>Attach the two LTE and WiFi antennas (included), and optional GPS antenna (not included), to the connectors. The antennas are jointed, which enables positioning for optimal signal reception.</li><br/><ul data-aura-rendered-by='12:182;a'><li>NOTE: Cellular antennas include RP-SMA connectors (pin in the center on the antenna) while WiFi antennas include SMA connectors (pin in the center on the device connection point). Ensure you connect the correct antennas to their applicable connection locations.</li></ul></ol><img src='images/routers/ibr600b_antennas_side1.jpg' width=100% alt=''><ol start='2' data-aura-rendered-by='12:182;a'><li>Do not over-tighten. The maximum recommended torque is 4 in-lbs.</li></ol><img src='images/routers/ibr600b_antennas_side2.jpg' width=100% alt=''><ol start='3' data-aura-rendered-by='12:182;a'><li>Angle the antennas for optimal signal reception.</li></ol>",
 	"poweron": "<p data-aura-rendered-by='12:182;a'><p data-aura-rendered-by='12:182;a'><strong>Connect the Power Source</strong></p><ol data-aura-rendered-by='12:182;a'><li>Insert four-pin end of the AC adapter to the four-pin port on the router.</li><li>Plug the adapter into an electrical socket.</li></ol><img src='images/routers/ibr600b_power_port_revised.jpg' width=100% alt=''>",
 	"productSpecification": "<ul data-aura-rendered-by='12:182;a'>&nbsp<p data-aura-rendered-by='12:182;a'>The following features are delivered through the hardware.</p>&nbsp<li><p data-aura-rendered-by='12:182;a'><strong>WAN:</strong></p><ul><li>Embedded 4G LTE modem (with DC-HSPA+ failover)</li></ul><ul><li>Dual-modem capable with optional COR Extensibility Dock and compatible MC400 modular modem</li></ul><ul><li>One 10/100/1000 Ethernet port (WAN or LAN), one 10/100 (WAN or LAN)</li></ul></li><li><p data-aura-rendered-by='12:182;a'><strong>LAN:</strong></p><ul><li>One 10/100/1000 Ethernet port (WAN or LAN), one 10/100 Ethernet port (WAN or LAN)</li></ul></li><li><p data-aura-rendered-by='12:182;a'><strong>Ports:</strong></p><ul><li>Power</li></ul><ul><li>2-wire GPIO</li></ul><ul><li>Two ethernet LAN or WAN</li></ul><ul><li>Two (2) cellular antenna connectors (SMA) </li></ul><ul><li>Two (2) WiFi connectors* (RP-SMA), 5 dBi gain)</li></ul><ul><li>Cradlepoint COR Extensibility Dock Port/custom cable Port (15-pin) with 4 GPIOs, power input, ignition sensing & 5 V out</li></ul></li><li><p data-aura-rendered-by='12:182;a'><strong>Temperature:</strong></p><ul><li> -20 °C to 60 °C (-4 °F to 140 °F) operating</li></ul><ul><li>-30 °C to 70 °C (-22 °F to 158 °F) storage</li></ul></li><li><p data-aura-rendered-by='12:182;a'><strong>Humidity (non-condensing):</strong></p><ul><li>5% to 95% operating</li><li>5% to 95% storage</li></ul></li><li><p data-aura-rendered-by='12:182;a'><strong>Power:</strong></p><ul><li>DC input steady state voltage range: 9–33 VDC (requires inline fuse for vehicle installations)</li><ul><li>For 9–24 VDC installations, use a 3 A fuse</li><li>For > 24 VDC installations, use a 2.5 A fuse</li></ul></ul><ul><li>Reverse polarity and transient voltage protection per ISO 7637-2</li></ul><ul><li>Ignition sensing (automatic ON and time-delay OFF)</li></ul><ul><li>Power Consumption (@25ºC):</li><ul><li>IBR600B</li><ul><li>Idle: 1.98 W</li></ul><ul><li>Max: 12.24 W</li></ul></ul><ul><li>IBR650B</li><ul><li>Idle: 1.5 W</li><li>Max: 10.08 W</li></ul></ul><br></br><br></br>"
 }
+
