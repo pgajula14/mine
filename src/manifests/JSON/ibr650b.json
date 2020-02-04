@@ -9,7 +9,27 @@
 		"images/routers/ibr600b_antennas_side2.jpg",
 		"images/routers/ibr600b_power_port_revised.jpg"
 	],
-	"packagecontents": ["One IBR650B series IoT router with an embedded business-class LTE modem featuring an integrated mounting plate", "Two external mobile broadband modem antennas (SMA)", "Two extra SIM door screws", "An AC power adapter", "Safety, Warranty, and Regulatory Guide"],
+	"packagecontents": [
+	  {
+	    "text":"One IBR650B series IoT router with an embedded business-class LTE modem featuring an integrated mounting plate", 
+	    "image":""
+	  },
+	  {
+	    "text":"Two external mobile broadband modem antennas (SMA)", 
+	    "image":""
+	  },
+	  {
+	    "text":"Two extra SIM door screws", 
+	    "image":""
+	  },
+	  {
+	    "text":"An AC power adapter", 
+	    "image":""
+	  },
+	  {
+	    "text":"Safety, Warranty, and Regulatory Guide", 
+	    "image":""
+	  }],
 	"getConnect": "<p data-aura-rendered-by='12:182;a'><p data-aura-rendered-by='12:182;a'><strong>Connecting a Wired WAN</strong></p>&nbsp<p data-aura-rendered-by='12:182;a'>Connect your Ethernet WAN source to the WAN port(Port WAN is default WAN. All ports are LAN/WAN switchable).</p><img src='images/routers/ibr600b_wan_port.jpg' width=100% alt=''>",
 	"insertSim": "<p data-aura-rendered-by='12:182;a'><p style='margin-left: 0px;' data-aura-rendered-by='12:182;a'><strong>Insert an Activated SIM</strong></p><ol data-aura-rendered-by='12:182;a'><li>Unscrew and remove the SIM cover from the router.</li><br/><li>Insert the card into the SIM1 slot, metal contacts down and notch in. It will click into place. Depress again to remove.</li><br/><li>Insert the secondary SIM card into the SIM2 slot if desired.</li></ol><img src='images/routers/ibr600b_sims.jpg' width=100% alt=''><ol start ='4' data-aura-rendered-by='12:182;a'><li>Replace the SIM door cover and secure with the screws.</li></ol>",
 	"attachAnttena": "<p data-aura-rendered-by='12:182;a'><p data-aura-rendered-by='12:182;a'><strong>Attach the Antennas</strong></p><ol data-aura-rendered-by='12:182;a'><li>Attach the two LTE and optional GPS antenna (not included), to the connectors. The antennas are jointed, which enables positioning for optimal signal reception.</li></ol><img src='images/routers/ibr600b_antennas_side1.jpg' width=100% alt=''><ol start ='2' data-aura-rendered-by='12:182;a'><li>Do not over-tighten. The maximum recommended torque is 4 in-lbs.</li><br/></ol><img src='images/routers/ibr600b_antennas_side2.jpg' width=100% alt=''>&nbsp;<ol start ='3' data-aura-rendered-by='12:182;a'><li>Angle the antennas for optimal signal reception.</li></ol>",
