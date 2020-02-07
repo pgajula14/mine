@@ -1,41 +1,40 @@
 {
-
-	"webstyle": "<style>li{margin: 2px 0px 2px 8px;padding-left:2px;padding-right:0px;text-indent: -4px; text-align='justify'; font-family:'arial';}ul{margin: 2px 0px 2px 20px;padding-left:0px;padding-right:0px;text-indent: -4px; text-align='justify'; font-family:'arial';}p{margin: 2px 8px;padding-left:2px;padding-right:2px;font-family:'arial';text-align='justify';}</style>",
-	"imageurls": ["images/routers/ibr6x0c_front.png"
-	],
-	"packagecontents": [
-	  {
-	    "text":"(1) IBR600C with embedded LTE (150M) modem", 
-	    "image":"images/routers/ibr6x0c_front.png"
-	  },
-	  {
-	    "text":"(1) AC power adapter", 
-	    "image":""
-	  },
-	  {
-	    "text":"(2) 4G LTE antennas", 
-	    "image":"images/routers/pc_4g_antenna.png"
-	  },
-	  {
-	    "text":"(2) Wi-Fi antennas", 
-	    "image":"images/routers/pc_wifi_antenna.png"
-	  },
-	  {
-	    "text":"(2) SIM door screw", 
-	    "image":""
-	  },
-	  {
-	    "text":"(1) Get Started guide", 
-	    "image":""
-	  },
-	  {
-	    "text":"(1) Safety, regulatory, and warranty guide", 
-	    "image":""
-	  }],
-	"insertSim": "<p data-aura-rendered-by='12:182;a'><p style='margin-left: 15px;' data-aura-rendered-by='12:182;a'><strong>Insert an Activated SIM</strong></p><div style='margin-left: 1px;' data-aura-rendered-by='12:182;a'><ol data-aura-rendered-by='12:182;a'><li>Remove the SIM door screws and SIM door.</li></ol><img src='images/routers/ibr6x0c_sim_door.png' width=100% alt=''><br/><ol start='2' data-aura-rendered-by='12:182;a'><li>Insert an active 2FF-sized SIM card into the slot with the contacts down and notch in. It will click into place. Depress the SIM card to remove it.</li></ol><ol start='3' data-aura-rendered-by='12:182;a'><li>Repeat for SIM 2 if needed.</li></ol><br/><img src='images/routers/ibr6x0c_embedded_sim.png' width=100% alt=''><br/><ol start='4' data-aura-rendered-by='12:182;a'><li>Replace the SIM modem door cover and secure with SIM door cover screws.</li></ol></div>",
-	"attachCellularAntenna": "<p data-aura-rendered-by='12:182;a'><strong>Attach the 4G LTE antennas</strong></p><p data-aura-rendered-by='12:182;a'></p><ol data-aura-rendered-by='12:182;a'><li>Attach the included cellular modem antennas to the ports marked MAIN and AUX.</li><ul data-aura-rendered-by='12:182;a'><li>NOTE: Cellular antennas include RP-SMA connectors (pin in the center on the antenna) while Wi-Fi antennas include SMA connectors (pin in the center on the device connection point). Ensure you connect the correct antennas to their applicable connection locations.</li></ul></ol><img src='images/routers/ibr6x0c_4g_antenna.png' width=100% alt=''><p data-aura-rendered-by='12:182;a'><br><ol start='2' data-aura-rendered-by='12:182;a'><li>Hold the antenna straight and twist the base to thread onto the device. Tighten with fingers only (maximum torque not to exceed 4 in-lbs). Do not over-tighten.</li></ol><ol start='3' data-aura-rendered-by='12:182;a'><li>Angle the antennas based on the following diagram.</li></ol><img src='images/routers/shared_4g_antenna_embedded_600m.png' width=100% alt=''><p data-aura-rendered-by='12:182;a'></p><br>",
-	"attachWifiAntenna": "<p data-aura-rendered-by='12:182;a'><strong>Attach the Wi-Fi Antennas</strong></p><p data-aura-rendered-by='12:182;a'></p><ol data-aura-rendered-by='12:182;a'><li>Attach the included Wi-Fi antennas to the ports marked 2.4/5GHz.</li></ol><img src='images/routers/ibr6x0c_wifi_antenna.png' width=100% alt=''><p data-aura-rendered-by='12:182;a'><br><ol start='2' data-aura-rendered-by='12:182;a'><li>Hold the antenna straight and twist the base to thread onto the device. Tighten with fingers only (maximum torque not to exceed 4 in-lbs). Do not over-tighten.</li></ol><ol start='3' data-aura-rendered-by='12:182;a'><li>Align the antenna at a 90-degree angle to the mounting surface.</li>",
-	"getConnect": "<p data-aura-rendered-by='12:182;a'><strong>Connect a Wired WAN</strong></p><p data-aura-rendered-by='12:182;a'></p><ol data-aura-rendered-by='12:182;a'><li>Connect an Ethernet cable to the WAN port of the router.</li><ul data-aura-rendered-by='12:182;a'><li  >NOTE: The port labeled 'WAN' is the default. However, all ports are LAN/WAN switchable.</li></ul></ol><img src='images/routers/ibr600c_ethernet.png' width=100% alt=''><p data-aura-rendered-by='12:182;a'><br>",
-	"poweron": "<p data-aura-rendered-by='12:182;a'><p data-aura-rendered-by='12:182;a'><strong>Connect the Power Source</strong></p><ol data-aura-rendered-by='12:182;a'><li>Connect the power supply to the router and then plug the other end into an electrical outlet.</li></ol><ol start='2' data-aura-rendered-by='12:182;a'><li>The LED lights will begin lighting up.</li></ol><img src='images/routers/ibr600c_power.png' width=100% alt=''><br/>",
-	"productSpecification": "<ul data-aura-rendered-by='12:182;a'>&nbsp<p data-aura-rendered-by='12:182;a'>The following features are delivered through the hardware.</p>&nbsp<li><p data-aura-rendered-by='12:182;a'><strong>WAN:</strong></p><ul><li>Embedded 4G LTE modem (with DC-HSPA+ failover)</li></ul><ul><li>Dual-modem capable with optional COR Extensibility Dock and compatible MC400 modular modem</li></ul><ul><li>One 10/100/1000 Ethernet port (WAN or LAN), one 10/100 (WAN or LAN)</li></ul></li><li><p data-aura-rendered-by='12:182;a'><strong>LAN:</strong></p><ul><li>One 10/100/1000 Ethernet port (WAN or LAN), one 10/100 Ethernet port (WAN or LAN)</li></ul></li><li><p data-aura-rendered-by='12:182;a'><strong>Ports:</strong></p><ul><li>Power</li></ul><ul><li>2-wire GPIO</li></ul><ul><li>Two Ethernet LAN/WAN</li></ul><ul><li>Two (2) cellular antenna connectors (SMA)</li></ul><ul><li>Two (2) WiFi connectors* (RP-SMA), 5 dBi gain</li></ul><ul><li>Cradlepoint COR Extensibility Dock Port/custom cable Port (15-pin) with 4 GPIOs, power input, ignition sensing & 5 V out</li></ul></li><li><p data-aura-rendered-by='12:182;a'><strong>Temperature:</strong></p><ul><li> -20 °C to 60 °C (-4 °F to 140 °F) operating</li></ul><ul><li> -30 °C to 70 °C (-22 °F to 158 °F) storage</li></ul></li><li><p data-aura-rendered-by='12:182;a'><strong>Humidity (non-condensing):</strong></p><ul><li>5% to 95% operating</li><li>5% to 95% storage</li></ul></li><li><p data-aura-rendered-by='12:182;a'><strong>Power:</strong></p><ul><li>DC input steady state voltage range: 9–33 VDC (requires inline fuse for vehicle installations)</li><ul><li>For 9–24 VDC installations, use a 3 A fuse</li><li>For > 24 VDC installations, use a 2.5 A fuse</li></ul></ul><ul><li>Reverse polarity and transient voltage protection per ISO 7637-2</li></ul><ul><li>Ignition sensing (automatic ON and time-delay OFF)</li></ul><ul><li>Power Consumption (@25ºC):</li><ul><li>IBR600B</li><ul><li>Idle: 1.98 W</li><li>Max:  12.24 W</li></ul></ul><ul><li>IBR650B</li><ul><li>Idle: 1.5 W</li><li>Max: 10.08 W</li></ul></ul></ul><br></br><br></br><br></br>"
+	"webstyle": " < style > li { margin: 2 px 0 px 2 px 8 px;padding - left: 2 px;padding - right: 0 px;text - indent: -4 px;text - align = 'justify';font - family: 'arial' } ul { margin: 2 px 0 px 2 px 20 px;padding - left: 0 px;padding - right: 0 px;text - indent: -4 px;text - align = 'justify';font - family: 'arial' } p { margin: 2 px 8 px;padding - left: 2 px;padding - right: 2 px;font - family: 'arial';text - align = 'justify' } < /style>",
+	"imageurls": ["images/routers/e300_07_front.png"],
+	"packagecontents": [{
+		"text": "(1) E350 Series router with embedded LTE Advanced Pro (C18B) modem",
+		"image": "images/routers/e300_07_front.png"
+	}, {
+		"text": "(1) AC power adapter",
+		"image": ""
+	}, {
+		"text": "(4) 4G LTE antennas",
+		"image": "images/routers/pc_4g_antenna.png"
+	}, {
+		"text": "(1) Ethernet cable",
+		"image": ""
+	}, {
+		"text": "(1) Modem door screw",
+		"image": ""
+	}, {
+		"text": "(4) Rubber feet for desk mounting",
+		"image": ""
+	}, {
+		"text": "(2) Wall mounting screws",
+		"image": ""
+	}, {
+		"text": "(2) Wall anchors",
+		"image": ""
+	}, {
+		"text": "(1) Get Started guide",
+		"image": ""
+	}, {
+		"text": "(1) Safety, regulatory, and warranty guide",
+		"image": ""
+	}],
+	"insertSim": " < p data - aura - rendered - by = '12:182;a' > < p style = 'margin-left: 15px;' data - aura - rendered - by = '12:182;a' > < strong > Insert Activated SIM Cards < /strong> < / p > < div style = 'margin-left: 1px;' data - aura - rendered - by = '12:182;a' > < ol data - aura - rendered - by = '12:182;a' > < li > Remove the modem door. < /li> < / ol > < ol > < ul > < li > Check the lower right - hand side of the door for the modem door screw. < /li> < / ul > < /ol> < img src = 'images/routers/e300_modem_door.png' width = 100 % alt = '' > < br / > < ol start = '2' data - aura - rendered - by = '12:182;a' > < li > Insert an active 2 FF - sized SIM card into the slot with the contacts down and notch in .It will click into place.Depress the SIM card to remove it. < /li> < / ol > < ol start = '3' data - aura - rendered - by = '12:182;a' > < li > Repeat for SIM 2 if needed. < /li> < / ol > < br / > < img src = 'images/routers/e300_embedded_sim.png' width = 100 % alt = '' > < br / > < /div> < p data - aura - rendered - by = '12:182;a' > < strong > Insert an External MC400 Modem(optional) < /strong> < / p > < p data - aura - rendered - by = '12:182;a' > < /p> < ol data - aura - rendered - by = '12:182;a' > < li > Insert 1 or 2 active 2 FF - sized SIM cards into the MC400 modem, contacts down, notch in . < /li> < / ol > < img src = 'images/routers / mc400_sim_install.png ' width = 100 % alt = ' ' > < p data - aura - rendered - by = ' 12: 182;a ' > < ol start = ' 2 ' data - aura - rendered - by = ' 12: 182;a ' > < li > Insert the MC400 modem into the router, USB port in , Cradlepoint logo up. < /li> < / ol > < img src = ' images / routers / e300_mc400_600m_insert.png ' width = 100 % alt = ' ' > < p data - aura - rendered - by = ' 12: 182;a ' > < /p> < br > < img src = ' images / routers / e300_mc400_1200m_insert.png ' width = 100 % alt = ' ' > < p data - aura - rendered - by = ' 12: 182;a ' > < /p> < p data - aura - rendered - by = ' 12: 182;a ' > < ol start = ' 3 ' data - aura - rendered - by = ' 12: 182;a ' > < li > Replace the MC400 modem door and secure with modem door screw. < /li> < / ol > < img src = ' images / routers / e3x0_modem_door_mc400_600m.png ' width = 100 % alt = ' ' > < p data - aura - rendered - by = ' 12: 182;a ' > < /p> < br > < img src = ' images / routers / e3x0_modem_door_mc400_1200m.png ' width = 100 % alt = ' ' > < p data - aura - rendered - by = ' 12: 182;a ' > < /p> < ol > < ul > < li > NOTE: Peel off the modem door decal to expose antenna port openings. < /li> < / ul > < /ol> < ol > < ul > < li > NOTE: The modem door must be on the device or the embedded modem will not power on. < /li> < / ul > < /ol>",
+	"attachCellularAntenna ": " < p data - aura - rendered - by = ' 12: 182;a ' > < p data - aura - rendered - by = ' 12: 182;a ' > < strong > Attach the 4 G LTE Antennas < /strong> < / p > < ol data - aura - rendered - by = ' 12: 182;a ' > < li > Attach the included cellular modem antennas to the ports marked MAIN and DIV. < /li> < / ol > < img src = ' images / routers / e300_4g_antenna_embedded_1200m.png ' width = 1 00 % alt = ' ' > < p data - aura - rendered - by = ' 12: 182;a ' > < /p> < ol start = ' 2 ' data - aura - rendered - by = ' 12: 182;a ' > < li > Hold the antenna straight and twist the base onto the device.Tighten with fingers only(maximum torque not to exceed 4 in -lbs).Do not over - tighten. < /li> < / ol > < ol start = ' 3 ' data - aura - rendered - by = ' 12: 182;a ' > < li > Angle the antennas based on the following diagram using the included antenna alignment tool. < /li> < / ol > < img src = ' images / routers / e300_4g_antenna_alignment_1200m.png ' width = 100 % alt = ' ' > < br / > < p data - aura - rendered - by = ' 12: 182;a ' > < p data - aura - rendered - by = ' 12: 182;a ' > < strong > Attach MC400 4 G LTE Antennas < /strong> < / p > < ol data - aura - rendered - by = ' 12: 182;a ' > < li > Attach the included cellular modem antennas to the ports marked MAIN and AUX. < /li> < / ol > < img src = ' images / routers / e3x0_4g_antenna_mc400 - 600 m.png ' width = 100 % alt = ' ' > < p data - aura - rendered - by = ' 12: 182;a ' > < /p> < br > < img src = ' images / routers / e3x0_4g_antenna_mc400_1200m.png ' width = 100 % alt = ' ' > < p data - aura - rendered - by = ' 12: 182;a ' > < /p> < ol start = ' 2 ' data - aura - rendered - by = ' 12: 182;a ' > < li > Hold the antenna straight and twist the base onto the device.Tighten with fingers only(maximum torque not to exceed 4 in -lbs).Do not over - tighten. < /li> < / ol > < ol start = ' 3 ' data - aura - rendered - by = ' 12: 182;a ' > < li > Angle the antennas based on the following diagrams. < /li> < / ol > < img src = ' images / routers / shared_4g_antenna_embedded_600m.png ' width = 100 % alt = ' ' > < p data - aura - rendered - by = ' 12: 182;a ' > < /p> < br > < img src = ' images / routers / shared_4g_antenna_embedded_1200m.png ' width = 100 % alt = ' ' > < p data - aura - rendered - by = ' 12: 182;a ' > < /p>",
+	"getConnect": " < p data - aura - rendered - by = ' 12: 182;a ' > < strong > Connect a Wired WAN < /strong> < / p > < p data - aura - rendered - by = ' 12: 182;a ' > < /p> < ol data - aura - rendered - by = ' 12: 182;a ' > < li > Connect the provided Ethernet cable to the WAN port of the router.Connect the other end to your WAN source. < /li> < ul data - aura - rendered - by = ' 12: 182;a ' > < li > NOTE: The port labeled 'WAN' is the default.However, all ports are LAN / WAN switchable. < /li> < / ul > < /ol> < img src = ' images / routers / e300_ethernet.png ' width = 100 % alt = ' ' > < p data - aura - rendered - by = ' 12: 182;a ' > < br > ",
+	" poweron ": " < p data - aura - rendered - by = ' 12: 182;a ' > < p data - aura - rendered - by = ' 12: 182;a ' > < strong > Connect the Power Source < /strong> < / p > < ol data - aura - rendered - by = ' 12: 182;a ' > < li > Connect the power supply to the router and then plug the other end into an electrical outlet. < /li> < / ol > < ol start = ' 2 ' data - aura - rendered - by = ' 12: 182;a ' > < li > Switch the device to ON(O = OFF, – = ON).The LED lights will begin lighting up. < /li> < / ol > < img src = ' images / routers / e300_power.png ' width = 100 % alt = ' ' > < br / > ",
+	" productSpecification ": " "
 }
