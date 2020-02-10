@@ -3,14 +3,14 @@
 	"webstyle": "<style>li{margin: 2px 0px 2px 8px;padding-left:2px;padding-right:0px;text-indent: -4px; text-align='justify'; font-family:'arial';}ul{margin: 2px 0px 2px 20px;padding-left:0px;padding-right:0px;text-indent: -4px; text-align='justify'; font-family:'arial';}p{margin: 2px 8px;padding-left:2px;padding-right:2px;font-family:'arial';text-align='justify';}</style>",
 	"imageurls": ["images/routers/ibr6x0c_front.png"
 	],
-	"packagecontents": [
+	"packagecontents":  [
 	  {
 	    "text":"(1) IBR650C with embedded LTE (150M) modem ", 
 	    "image":"images/routers/ibr6x0c_front.png"
 	  },
 	  {
 	    "text":"(1) AC power adapter", 
-	    "image":""
+	    "image": "images/routers/pc_power_adapter_small.png"
 	  },
 	  {
 	    "text":"(2) 4G LTE antennas", 
@@ -18,7 +18,7 @@
 	  },
 	  {
 	    "text":"(2) SIM door screw", 
-	    "image":""
+	    "image":"images/routers/pc_modem_door_screw.png"
 	  },
 	  {
 	    "text":"(1) Get Started guide", 
