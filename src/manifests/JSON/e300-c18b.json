@@ -6,7 +6,7 @@
 		"image": "images/routers/e300_07_front.png"
 	}, {
 		"text": "(1) AC power adapter",
-		"image": ""
+		"image": "images/routers/pc_power_adapter_small.png"
 	}, {
 		"text": "(4) 4G LTE antennas",
 		"image": "images/routers/pc_4g_antenna.png"
@@ -15,13 +15,13 @@
 		"image": ""
 	}, {
 		"text": "(1) Modem door screw",
-		"image": ""
+		"image": "images/routers/pc_modem_door_screw.png"
 	}, {
 		"text": "(1) Antenna alignment tool",
 		"image": ""
 	}, {
 		"text": "(4) Rubber feet for desk mounting",
-		"image": ""
+		"image": "images/routers/pc_rubber_feet.png"
 	}, {
 		"text": "(2) Wall mounting screws",
 		"image": ""
