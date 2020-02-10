@@ -12,7 +12,7 @@
 	  },
 	  {
 	    "text":"(1) AC power adapter", 
-	    "image":""
+	    "image": "images/routers/pc_power_adapter_small.png"
 	  },
 	  {
 	    "text":"(2) 4G LTE antennas", 
@@ -24,7 +24,7 @@
 	  },
 	  {
 	    "text":"(1) SIM door screw", 
-	    "image":""
+	    "image":"images/routers/pc_modem_door_screw.png"
 	  },
 	  {
 	    "text":"(1) Get Started guide", 
