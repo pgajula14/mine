@@ -10,7 +10,7 @@
 	  },
 	  {
 	    "text":"(1) AC power adapter", 
-	    "image":"images/routers/pc_power_adapter_small.png"
+	    "image":"images/routers/pc_power_adapter_large.png"
 	  },
 	  {
 	    "text":"(2) 4G LTE antennas", 
@@ -22,7 +22,7 @@
 	  },
 	  {
 	    "text":"(1) Ethernet cable", 
-	    "image":""
+	    "image": "images/routers/pc_ethernet_cable.png"
 	  },
 	  {
 	    "text":"(1) Modem door screw", 
