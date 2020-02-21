@@ -1,5 +1,4 @@
 {
-
 	"webstyle": "<style>li{margin: 10px 0px 2px 8px;padding-left:2px;padding-right:0px;text-indent: -0px; text-align='justify'; font-family:'arial';}ul{margin: 10px 0px 2px 20px;padding-left:0px;padding-right:0px;text-indent: -4px; text-align='justify'; font-family:'arial';}p{margin: 2px 8px;padding-left:2px;padding-right:2px;font-family:'arial';text-align='justify';}</style>",
 	"imageurls": [
 	  "images/routers/cba_front_850.png"
@@ -7,44 +6,45 @@
 	"productSpecification": " <ul data-aura-rendered-by='12:182;a'>&nbsp<p data-aura-rendered-by='12:182;a'>The following features are delivered through the hardware.</p>&nbsp<li><p data-aura-rendered-by='12:182;a'>WAN:</p><ul><li>1200M-B Category 18 LTE Advanced Pro modem with (DC-HSPA+ failover), or</li><li>1200M Category 18 LTE Advanced Pro modem with (DC-HSPA+ failover), or</li><li>LP6 Category 6 LTE Advanced LTE modem (with DC-HSPA+ failover), or</li><li>LP5 Category 6 LTE Advanced LTE modem (with DC-HSPA+ failover), or</li><li>LP4 Category 4 LTE modem (with DC-HSPA+ failover), or</li></ul></li><li><p data-aura-rendered-by='12:182;a'>LAN:</p><ul><li>White, Universal 600MHz-6GHz 3G/4G/LTE 2dBi/3dBi 6' antenna with SMA connector (1x) Part # 170761-000</li><li>White, 600MHz-2.7 GHz LTE/4G/3G 2/3 dBi antenna with SMA connector (1x) Part # 170765-000</li><li>Two (2) LAN 10/100/1000 Ethernet ports (default one NAT, one IP Passthrough)</li><li>RJ45 Serial Port for console access or out-of-band management</li></ul></li><li><p data-aura-rendered-by='12:182;a'>Temperature:</p><ul><li>0 °C to 50 °C (32 °F to 122 °F) operating</li><li>-20 °C to 70 °C (-4 °F to 158 °F) storage</li></ul></li><li><p data-aura-rendered-by='12:182;a'>Humidity (non-condensing):</p><ul><li>10% to 85% operating</li><li>5% to 90% storage</li></ul></li><li><p data-aura-rendered-by='12:182;a'>Power:</p><ul><li>12 V DC / 1.5 A adapter</li><li>802.3af (15 W) or 802.3at (30 W) PoE capable</li></ul></li><li><p data-aura-rendered-by='12:182;a'>Power Consumption (typical):</p><ul><li>Idle: 4.0 W</li><li>Single Modem: 6.0 W</li></ul></li><li><p data-aura-rendered-by='12:182;a'>Size:</p><ul><li>4.8 × 4.8 × 1.7 in (122 × 122 × 42 mm)</li></ul></li><li><p data-aura-rendered-by='12:182;a'>Housing:</p><ul><li>White plastic, locking compatible</li><li>Wall, desk, or DIN Rail mounting</li></ul></li><li><p data-aura-rendered-by='12:182;a'>Certifications:</p><ul><li>FCC, CE, IC</li><li>Safety: UL/CUL/CB Scheme</li><li>Materials: WEEE, RoHS, RoHS-2, California Prop 65</li></ul></li><br></br><br></br>",
 	"packagecontents": [
 	  {
-	    "text":"(1) CBA850 LTE Adapter", 
-	    "image":"images/routers/cba_front_850.png"
+		"text": "(1) CBA850 LTE Adapter",
+		"image": "images/routers/cba_front_850.png"
 	  },
 	  {
-	    "text":"(1) MC400 LTE modem (LP4, LP5, LP6, 1200M, or 1200M-B SIM-based Auto-carrier Selection modem)", 
-	    "image":"images/routers/mc400_top_view.png"
+		"text": "(1) MC400 LTE modem (LP4, LP5, LP6, 1200M, or 1200M-B SIM-based Auto-carrier Selection modem)",
+		"image": "images/routers/mc400_top_view.png"
 	  },
 	  {
-	    "text":"(2) or (4) 4G LTE antennas (depending on model)", 
-	    "image":"images/routers/pc_4g_antenna.png"
+		"text": "(2) or (4) 4G LTE antennas (depending on model)",
+		"image": "images/routers/pc_4g_antenna.png"
 	  },
 	  {
-	    "text":"(1) AC power adapter", 
-	    "image":"images/routers/pc_power_adapter_small.png"
+		"text": "(1) AC power adapter",
+		"image": "images/routers/pc_power_adapter_small.png"
 	  },
 	  {
-	    "text":"(1) Ethernet cable", 
-	    "image": "images/routers/pc_ethernet_cable.png"
+		"text": "(1) Ethernet cable",
+		"image": "images/routers/pc_ethernet_cable.png"
 	  },
 	  {
-	    "text":"(1) Modem door screw", 
-	    "image":"images/routers/pc_modem_door_screw.png"
+		"text": "(1) Modem door screw",
+		"image": "images/routers/pc_modem_door_screw.png"
 	  },
 	  {
-	    "text":"Mounting hardware", 
-	    "image":""
+		"text": "Mounting hardware",
+		"image": "images/routers/mounting_hardware.png"
 	  },
 	  {
-	    "text":"(1) Get Started guide", 
-	    "image":""
+		"text": "(1) Get Started guide",
+		"image": "images/routers/guide_get_started.png"
 	  },
 	  {
-	    "text":"(1) Regulatory, safety, and warranty Information", 
-	    "image":""
-	  }],
+		"text": "(1) Regulatory, safety, and warranty Information",
+		"image": "images/routers/guide_regulatory_safety.png"
+	  }
+	],
 	"getConnect": "<p data-aura-rendered-by='12:182;a'><strong>Connecting a Wired WAN</strong></p><p data-aura-rendered-by='12:182;a'><ol data-aura-rendered-by='12:182;a'><li>Connect the provided Ethernet cable to the WAN port of the adapter (Port LAN1 is default LAN and will need to be configured for WAN by the NCM Admin. All ports are LAN/WAN switchable).  Connect the other end to your WAN source.</li></ol><img src='images/routers/cba850_lan1.png' width=100% alt=''><br><br></p>",
 	"insertSim": "<p data-aura-rendered-by='12:182;a'><strong>Insert SIM card(s) and MC400 Modem</strong></p><p data-aura-rendered-by='12:182;a'></p><ol data-aura-rendered-by='12:182;a'><li>Insert 1 or 2 active 2FF-sized SIM card into the MC400 modem.</li></ol><ol start='2' data-aura-rendered-by='12:182;a'><li>Remove the modem door (check bottom of the device for presence of modem door screw).</li></ol><img src='images/routers/mc400_sim_install.png' width=100% alt=''><p data-aura-rendered-by='12:182;a'><br>&nbsp<ol start='3' data-aura-rendered-by='12:182;a'><li>Insert the MC400 modem. USB port in. <strong>Cradlepoint logo down.</strong></li></ol><img src='images/routers/cba850_mc400_600m_insert.png' width=100% alt=''><p data-aura-rendered-by='12:182;a'><br>&nbsp<img src='images/routers/cba850_mc400_1200m_insert.png' width=100% alt=''><p data-aura-rendered-by='12:182;a'><br>&nbsp<ol start='4' data-aura-rendered-by='12:182;a'><li>Replace the MC400 modem door cover and secure with door cover screw. </li></ol><img src='images/routers/cba850_modem_door_mc600m.png' width=100% alt=''><p data-aura-rendered-by='12:182;a'><br>&nbsp<img src='images/routers/cba850_modem_door_mc1200.png' width=100% alt=''><p data-aura-rendered-by='12:182;a'><br>&nbsp",
 	"attachCellularAntenna": "<p data-aura-rendered-by='12:182;a'><strong>Attach the 4G LTE antennas</strong></p><p data-aura-rendered-by='12:182;a'><ol data-aura-rendered-by='12:182;a'><li>Attach the included cellular modem antennas (number will depend on modem model) to the connectors.</li></ol><img src='images/routers/cba850_4g_antenna_mc600m.png' width=100% alt=''><br><br><img src='images/routers/cba850_4g_antenna_mc1200m.png' width=100% alt=''><div style='margin-left: 0px;' data-aura-rendered-by='12:182;a'><ol start='2' data-aura-rendered-by='12:182;a'><li>Hold the antenna straight and twist the base to thread onto the device.  Tighten with fingers only (maximum torque not to exceed 4 in-lbs). Do not over-tighten.</li></ol><div style='margin-left: 0px;' data-aura-rendered-by='12:182;a'></div><ol start='3' data-aura-rendered-by='12:182;a'><li>Angle the antennas based on the diagrams below.</li></ol><div style='margin-left: 0px;' data-aura-rendered-by='12:182;a'><img src='images/routers/shared_4g_antenna_ibr.png' width=100% alt=''><br><br><img src='images/routers/shared_4g_antenna_installed_1200m.png' width=100% alt=''></div></p>",
 	"attachWifiAntenna": "",
 	"poweron": "<p data-aura-rendered-by='12:182;a'><strong>Connect the Power Source</strong></p><p data-aura-rendered-by='12:182;a'><ol data-aura-rendered-by='12:182;a'><li>The CBA850 is powered by a power adapter OR a PoE-enabled RJ45 cable. </li><div style='margin-left: 0px;' data-aura-rendered-by='12:182;a'><ul><li>PoE Power:</li><ol><ul><li style='margin-left:-35px;margin-top:3px';>Connect LAN2 to PoE enabled networking equipment to Passthrough 3G/4G Internet to Ethernet and receive power.</li></ul></ol></ul></ol><div style='margin-left: 0px;' data-aura-rendered-by='12:182;a'><img src='images/routers/cba850_power_poe.png' width=100% alt=''><br><br></div><div style='margin-left: 0px;' data-aura-rendered-by='12:182;a'></div><ol><ul start='3' data-aura-rendered-by='12:182;a'><li>Power Adapter:</li><ol><ul><li style='margin-left:-35px;margin-top:3px';> Connect the power supply to the router and then plug the other end into an electrical outlet.</li></ul></ol></ul></ol><div style='margin-left: 0px;' data-aura-rendered-by='12:182;a'><img src='images/routers/cba850_power_barrell.png' width=100% alt=''><br><br></div><div style='margin-left: 0px;' data-aura-rendered-by='12:182;a'><ol start='2' data-aura-rendered-by='12:182;a'><li>Switch the device to ON (O = OFF, – = ON). The LED lights will begin lighting up.</li></ol></p>"
-}
+  }

@@ -26,12 +26,12 @@
 	    "image": "images/routers/pc_ethernet_cable.png"
 	  },
 	  {
-	    "text":"(1) Get Started guide", 
-	    "image":""
+	    "text":"(1) Get Started guide",
+        "image":"images/routers/guide_get_started.png"
 	  },
 	  {
 	    "text":"(1) Safety, regulatory, and warranty guide", 
-	    "image":""
+        "image":"images/routers/guide_regulatory_safety.png"
 	  }],
 	"getConnect": "<p data-aura-rendered-by='12:182;a'><strong>Connecting a Wired WAN</strong><p data-aura-rendered-by='12:182;a'></p><ol data-aura-rendered-by='12:182;a'><li>Connect the provided Ethernet cable to the WAN port on the router.  (Port WAN is default WAN. All ports are LAN/WAN switchable).</li></ol></p><br><img src='images/routers/aer1600_ethernet.png' width=100% alt=''>",
 	"insertSim": "<p data-aura-rendered-by='12:182;a'><strong>Insert activated SIM cards</strong></p><p data-aura-rendered-by='12:182;a'></p><ol data-aura-rendered-by='12:182;a'><li>Insert an activated 2FF-sized SIM card into the MC400 modem.</li></ol><div style='margin-left: 40px;' data-aura-rendered-by='12:182;a'></div><ol start='2' data-aura-rendered-by='12:182;a'><li>Remove the modem door (check bottom of the device for presence of the modem door screw).</li></ol></div><img src='images/routers/mc400_sim_install.png' width=100% alt=''><ol start='3' data-aura-rendered-by='12:182;a'><li>Insert the MC400 modem. USB port in. Cradlepoint logo up.</li></ol><img src='images/routers/aer1600_mc400_600m_insert.png' width=100% alt=''><ol start='4' data-aura-rendered-by='12:182;a'><li>Replace the MC400 modem door and secure with the modem door screw (under the device).</li></ol><img src='images/routers/aer1600_modem_door.png' width=100% alt=''><ul><ul><li>NOTE: Remove plastic SMA covers on the modem door to expose port openings </li></ul></ul><br>",
