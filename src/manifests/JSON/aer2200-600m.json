@@ -14,6 +14,10 @@
 		"image": "images/routers/pc_power_adapter_large.png"
 	  },
 	  {
+		"text": "(1) C13 power cord",
+		"image": "images/routers/pc_power_cord_c13.png"
+	  },
+	  {
 		"text": "(2) 4G LTE antennas",
 		"image": "images/routers/pc_4g_antenna.png"
 	  },
