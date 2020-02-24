@@ -3,7 +3,7 @@
 	"imageurls": [
 	  "images/routers/e3000_08_front.png"
 	],
-	"packagecontents":  [
+	"packagecontents": [
 	  {
 		"text": "(1) E3000 router with embedded LTE Advanced Pro (C18B) modem",
 		"image": "images/routers/e3000_08_front.png"
