@@ -33,14 +33,14 @@
 		"text": "(4) Rubber feet for desk mounting",
 		"image": "images/routers/pc_rubber_feet.png"
 	  },
-	  {
-		"text": "(2) Wall mounting screws",
-		"image": ""
-	  },
-	  {
-		"text": "(2) Wall anchors",
-		"image": ""
-	  },
+      {
+          "text": "(2) Wall mounting screws",
+          "image": "images/routers/pc_modem_door_screw.png"
+      },
+      {
+          "text": "(2) Wall anchors",
+          "image": "images/routers/mounting_hardware.png"
+      },
 	  {
 		"text": "(1) Get Started guide",
 		"image": "images/routers/guide_get_started.png"
