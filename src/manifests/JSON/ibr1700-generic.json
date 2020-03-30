@@ -11,19 +11,19 @@
   "packagecontents": [
     {
       "text": "(1) IBR1700 with embedded LTE Advanced Pro (1200M-B) modem or embedded LTE Advanced (600M) modem",
-      "image": ""
+      "image": "images/routers/ibr1700_front_400.png"
     },
     {
       "text": "(1) DC GPIO/power cable",
-      "image": ""
+      "image": "images/routers/pc_gpio_cable.png"
     },
     {
       "text": "(1) Get Started guide",
-      "image": ""
+      "image": "images/routers/guide_get_started.png"
     },
     {
       "text": "(1) Safety, regulatory, and warranty guide",
-      "image": ""
+      "image": "images/routers/guide_regulatory_safety.png"
     }
   ],
   "getConnect": "<p data-aura-rendered-by='12:182;a'> <strong>Connect a Wired WAN (optional)</strong></p>&nbsp<p data-aura-rendered-by='12:182;a'>Connect the Ethernet cable to the WAN port of the router. Connect the other end to your WAN source.</p>&nbsp<ol><ul><li> NOTE: The port labeled 'WAN' is the default. However, all ports are LAN/WAN switchable.</li></ul></ol> <img src='images/routers/ibr1700_ethernet.jpg' width=100% alt=''>",
