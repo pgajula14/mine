@@ -1,0 +1,54 @@
+{
+	"webstyle": "<style>li{margin: 2px 0px 2px 8px;padding-left:2px;padding-right:0px;text-indent: -4px; text-align='justify'; font-family:'arial';}ul{margin: 2px 0px 2px 20px;padding-left:0px;padding-right:0px;text-indent: -4px; text-align='justify'; font-family:'arial';}p{margin: 2px 8px;padding-left:2px;padding-right:2px;font-family:'arial';text-align='justify';}</style>",
+	"imageurls": [
+	  "images/routers/e3000_08_front.png"
+	],
+	"packagecontents": [
+	  {
+		"text": "(1) E3000 router with embedded LTE Advanced Pro (C18B) modem",
+		"image": "images/routers/e3000_08_front.png"
+	  },
+	  {
+		"text": "(1) AC power adapter",
+		"image": "images/routers/pc_power_adapter_large.png"
+	  },
+	  {
+		"text": "(1) C13 power cord",
+		"image": "images/routers/pc_power_cord_c13.png"
+	  },
+	  {
+		"text": "(4) 4G LTE antennas",
+		"image": "images/routers/pc_4g_antenna.png"
+	  },
+	  {
+		"text": "(4) Wi-Fi antennas",
+		"image": "images/routers/pc_wifi_antenna.png"
+	  },
+	  {
+		"text": "(1) Ethernet cable",
+		"image": "images/routers/pc_ethernet_cable.png"
+	  },
+	  {
+		"text": "(1) Modem door screw",
+		"image": "images/routers/pc_modem_door_screw.png"
+	  },
+	  {
+		"text": "(4) Rubber feet for desk mounting",
+		"image": "images/routers/pc_rubber_feet.png"
+	  },
+	  {
+		"text": "(1) Get Started guide",
+		"image": "images/routers/guide_get_started.png"
+	  },
+	  {
+		"text": "(1) Safety, regulatory, and warranty guide",
+		"image": "images/routers/guide_regulatory_safety.png"
+	  }
+	],
+	"insertSim": "<p data-aura-rendered-by='12:182;a'><strong>Insert activated SIM cards</strong></p><p data-aura-rendered-by='12:182;a'></p><ol data-aura-rendered-by='12:182;a'><li>Remove the modem door (check for presence of modem door screw).</li></ol><img src='images/routers/e3000_modem_door.png' width=100% alt=''><p data-aura-rendered-by='12:182;a'><br><ol start='2' data-aura-rendered-by='12:182;a'><li>Insert an active 2FF-sized SIM card into the slot with the contacts up and notch in. It will click into place. Depress the SIM card to remove it.</li></ol><ol start='3' data-aura-rendered-by='12:182;a'><li>Repeat for SIM 2 if needed.</li></ol><img src='images/routers/e3000_embedded_sim.png' width=100% alt=''><p data-aura-rendered-by='12:182;a'><br><br><p data-aura-rendered-by='12:182;a'><strong>Insert external MC400 modem (optional)</strong></p><p data-aura-rendered-by='12:182;a'></p><ol data-aura-rendered-by='12:182;a'><li>Insert 1 or 2 active 2FF-sized SIM cards in to the MC400 modem.</li></ol><img src='images/routers/mc400_sim_install.png' width=100% alt=''><p data-aura-rendered-by='12:182;a'><br><ol start='2' data-aura-rendered-by='12:182;a'><li>Insert the MC400 modem into the router. USB port in. Cradlepoint logo up.</li></ol><img src='images/routers/e3000_mc400_600m.png' width=100% alt=''><p data-aura-rendered-by='12:182;a'><br><img src='images/routers/e3000_mc400_1200m.png' width=100% alt=''><p data-aura-rendered-by='12:182;a'><br><ol start='3' data-aura-rendered-by='12:182;a'><li>Replace the MC400 modem door and secure with modem door screw.</li></ol><img src='images/routers/e3000_modem_door_mc400_600m.png' width=100% alt=''><p data-aura-rendered-by='12:182;a'><br><img src='images/routers/e3000_modem_door_mc400_1200m.png' width=100% alt=''><p data-aura-rendered-by='12:182;a'><br><ul><ul><li>NOTE: Peel off the modem door decal to expose antenna port openings (MC400-600M only).</li></ul><br/><ul><li>NOTE: The modem door must be on the device or the embedded modem will not power on.</li></ul></ul>",
+	"attachCellularAntenna": "<p data-aura-rendered-by='12:182;a'><strong>Attach the 4G LTE antennas</strong></p><p data-aura-rendered-by='12:182;a'></p><ol data-aura-rendered-by='12:182;a'><li>Attach the four cellular modem antennas (included) to the connectors.</li><ul data-aura-rendered-by='12:182;a'><li>NOTE: Cellular antennas include SMA connectors (pin in the center on the antenna) while Wi-Fi antennas include RP-SMA connectors (pin in the center on the device connection point). Ensure you connect the correct antennas to their applicable connection locations.</li></ul></ol><img src='images/routers/e3000_4g_antenna_embedded.png' width=100% alt=''><p data-aura-rendered-by='12:182;a'><br><ol start='2' data-aura-rendered-by='12:182;a'><li>Hold the antenna straight and twist the base of the antenna to connect to the device.  Tighten with fingers only (maximum torque not to exceed 4 in-lbs). Do not over-tighten.</li></ol><ol start='3' data-aura-rendered-by='12:182;a'><li>Angle the antennas based on diagram using the included antenna alignment tool.</li></ol><img src='images/routers/e3000_4g_antenna_alignment.png' width=100% alt=''><p data-aura-rendered-by='12:182;a'><br><br><p data-aura-rendered-by='12:182;a'><strong>Attach MC400 4G LTE antennas</strong></p><p data-aura-rendered-by='12:182;a'></p><ol data-aura-rendered-by='12:182;a'><li>Attach the included cellular modem antennas to the connectors.</li></ol><img src='images/routers/e3000_4g_antenna_mc400_600m.png' width=100% alt=''><p data-aura-rendered-by='12:182;a'><br><img src='images/routers/e3000_4g_antenna_mc400_1200m.png' width=100% alt=''><p data-aura-rendered-by='12:182;a'><br><ol start='2' data-aura-rendered-by='12:182;a'><li>Hold the antenna straight and twist the base to thread onto the device. Tighten with fingers only (maximum torque not to exceed 4 in-lbs). Do not over-tighten.</li></ol><ol start='3' data-aura-rendered-by='12:182;a'><li>Angle the antennas based on the diagrams below.</li></ol><img src='images/routers/shared_4g_antenna_embedded_600m.png' width=100% alt=''><p data-aura-rendered-by='12:182;a'><br><img src='images/routers/shared_4g_antenna_embedded_1200m.png' width=100% alt=''><p data-aura-rendered-by='12:182;a'><br>",
+	"attachWifiAntenna": "<p data-aura-rendered-by='12:182;a'><strong>Attach the Wi-Fi antennas</strong></p><p data-aura-rendered-by='12:182;a'></p><ol data-aura-rendered-by='12:182;a'><li>Attach the included Wi-Fi antennas to the connectors.</li></ol><img src='images/routers/e3000_wifi_antenna.png' width=100% alt=''><p data-aura-rendered-by='12:182;a'><br><ol start='2' data-aura-rendered-by='12:182;a'><li>Hold the antenna straight and twist the base to thread onto the device.  Tighten with fingers only (maximum torque not to exceed 4 in-lbs). Do not over-tighten.</li></ol><ol start='3' data-aura-rendered-by='12:182;a'><li>Align the antenna at a 90-degree angle to the mounting surface.</li>",
+	"getConnect": "<p data-aura-rendered-by='12:182;a'><strong>Connecting a Wired WAN</strong></p><p data-aura-rendered-by='12:182;a'></p><ol data-aura-rendered-by='12:182;a'><li>Connect the provided Ethernet cable to the WAN port of the router.  Connect the other end to your WAN source.</li><ul data-aura-rendered-by='12:182;a'><li  >NOTE: The port labeled 'WAN' is the default. However, all ports are LAN/WAN switchable.</li></ul></ol><img src='images/routers/e3000_ethernet.png' width=100% alt=''><p data-aura-rendered-by='12:182;a'><br>",
+	"poweron": "<p data-aura-rendered-by='12:182;a'><p data-aura-rendered-by='12:182;a'><strong>Connect the Power Source</strong></p><ol data-aura-rendered-by='12:182;a'><li>Connect the power supply to the router and then plug the other end into an electrical outlet.</li></ol><ol start='2' data-aura-rendered-by='12:182;a'><li>Switch the device to ON (O = OFF, – = ON). The LED lights will begin lighting up.</li></ol><img src='images/routers/e3000_power.png' width=100% alt=''><br/>",
+	"productSpecification": ""
+  }

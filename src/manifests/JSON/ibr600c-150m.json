@@ -1,0 +1,42 @@
+{
+	"webstyle": "<style>li{margin: 2px 0px 2px 8px;padding-left:2px;padding-right:0px;text-indent: -4px; text-align='justify'; font-family:'arial';}ul{margin: 2px 0px 2px 20px;padding-left:0px;padding-right:0px;text-indent: -4px; text-align='justify'; font-family:'arial';}p{margin: 2px 8px;padding-left:2px;padding-right:2px;font-family:'arial';text-align='justify';}</style>",
+	"imageurls": [
+	  "images/routers/ibr6x0c_front.png"
+	],
+	"packagecontents": [
+	  {
+		"text": "(1) IBR600C with embedded LTE (150M) modem",
+		"image": "images/routers/ibr6x0c_front.png"
+	  },
+	  {
+		"text": "(1) AC power adapter",
+		"image": "images/routers/pc_power_adapter_small.png"
+	  },
+	  {
+		"text": "(2) 4G LTE antennas",
+		"image": "images/routers/pc_4g_antenna.png"
+	  },
+	  {
+		"text": "(2) Wi-Fi antennas",
+		"image": "images/routers/pc_wifi_antenna.png"
+	  },
+	  {
+		"text": "(2) SIM door screw",
+		"image": "images/routers/pc_modem_door_screw.png"
+	  },
+	  {
+		"text": "(1) Get Started guide",
+		"image": "images/routers/guide_get_started.png"
+	  },
+	  {
+		"text": "(1) Safety, regulatory, and warranty guide",
+		"image": "images/routers/guide_regulatory_safety.png"
+	  }
+	],
+	"insertSim": "<p data-aura-rendered-by='12:182;a'><p style='margin-left: 15px;' data-aura-rendered-by='12:182;a'><strong>Insert an Activated SIM</strong></p><div style='margin-left: 1px;' data-aura-rendered-by='12:182;a'><ol data-aura-rendered-by='12:182;a'><li>Remove the SIM door screws and SIM door.</li></ol><img src='images/routers/ibr6x0c_sim_door.png' width=100% alt=''><br/><ol start='2' data-aura-rendered-by='12:182;a'><li>Insert an active 2FF-sized SIM card into the slot with the contacts down and notch in. It will click into place. Depress the SIM card to remove it.</li></ol><ol start='3' data-aura-rendered-by='12:182;a'><li>Repeat for SIM 2 if needed.</li></ol><br/><img src='images/routers/ibr6x0c_embedded_sim.png' width=100% alt=''><br/><ol start='4' data-aura-rendered-by='12:182;a'><li>Replace the SIM modem door cover and secure with SIM door cover screws.</li></ol></div>",
+	"attachCellularAntenna": "<p data-aura-rendered-by='12:182;a'><strong>Attach the 4G LTE antennas</strong></p><p data-aura-rendered-by='12:182;a'></p><ol data-aura-rendered-by='12:182;a'><li>Attach the included cellular modem antennas to the ports marked MAIN and AUX.</li><ul data-aura-rendered-by='12:182;a'><li>NOTE: Cellular antennas include SMA connectors (pin in the center on the antenna) while Wi-Fi antennas include RP-SMA connectors (pin in the center on the device connection point). Ensure you connect the correct antennas to their applicable connection locations.</li></ul></ol><img src='images/routers/ibr6x0c_4g_antenna.png' width=100% alt=''><p data-aura-rendered-by='12:182;a'><br><ol start='2' data-aura-rendered-by='12:182;a'><li>Hold the antenna straight and twist the base to thread onto the device. Tighten with fingers only (maximum torque not to exceed 4 in-lbs). Do not over-tighten.</li></ol><ol start='3' data-aura-rendered-by='12:182;a'><li>Angle the antennas based on the following diagram.</li></ol><img src='images/routers/shared_4g_antenna_embedded_600m.png' width=100% alt=''><p data-aura-rendered-by='12:182;a'></p><br>",
+	"attachWifiAntenna": "<p data-aura-rendered-by='12:182;a'><strong>Attach the Wi-Fi Antennas</strong></p><p data-aura-rendered-by='12:182;a'></p><ol data-aura-rendered-by='12:182;a'><li>Attach the included Wi-Fi antennas to the ports marked 2.4/5GHz.</li></ol><img src='images/routers/ibr6x0c_wifi_antenna.png' width=100% alt=''><p data-aura-rendered-by='12:182;a'><br><ol start='2' data-aura-rendered-by='12:182;a'><li>Hold the antenna straight and twist the base onto the device. Tighten with fingers only (maximum torque not to exceed 4 in-lbs). Do not over-tighten.</li></ol><ol start='3' data-aura-rendered-by='12:182;a'><li>Align the antenna at a 90-degree angle to the mounting surface.</li>",
+	"getConnect": "<p data-aura-rendered-by='12:182;a'><strong>Connect a Wired WAN</strong></p><p data-aura-rendered-by='12:182;a'></p><ol data-aura-rendered-by='12:182;a'><li>Connect the provided Ethernet cable to the WAN port of the router.  Connect the other end to your WAN source.</li><ul data-aura-rendered-by='12:182;a'><li  >NOTE: The port labeled 'WAN' is the default. However, all ports are LAN/WAN switchable.</li></ul></ol><img src='images/routers/ibr600c_ethernet.png' width=100% alt=''><p data-aura-rendered-by='12:182;a'><br>",
+	"poweron": "<p data-aura-rendered-by='12:182;a'><p data-aura-rendered-by='12:182;a'><strong>Connect the Power Source</strong></p><ol data-aura-rendered-by='12:182;a'><li>Connect the power supply to the router and then plug the other end into an electrical outlet.</li></ol><ol start='2' data-aura-rendered-by='12:182;a'><li>The LED lights will begin lighting up.</li></ol><img src='images/routers/ibr600c_power.png' width=100% alt=''><br/>",
+	"productSpecification": "<ul data-aura-rendered-by='12:182;a'>&nbsp<p data-aura-rendered-by='12:182;a'>The following features are delivered through the hardware.</p>&nbsp<li><p data-aura-rendered-by='12:182;a'> <strong>WAN:</strong></p><ul><li>Dual-modem capable with optional COR Extensibility Dock</li></ul><ul><li>Embedded 150M-B, 150M-C, or 150M-D modem</li></ul><ul><li>Two LAN/WAN switchable Ethernet ports (one 10/100/1000 and one 10/100) – one default WAN</li></ul><ul><li>WiFi-as-WAN, Metro WiFi; 2×2 MIMO “N” 2.4 GHz; 802.11 b/g/n (IBR600C only)</li></ul></li><li><p data-aura-rendered-by='12:182;a'> <strong>LAN:</strong></p><ul><li>2×2 MIMO “N” 2.4 GHz WiFi; 802.11 b/g/n (IBR600C only)</li></ul><ul><li>Two LAN/WAN switchable Ethernet ports (one 10/100/1000 and one 10/100) – one default LAN</li></ul><ul><li>Serial console support for Out-of-Band Management of a connected device</li></ul></li><li><p data-aura-rendered-by='12:182;a'> <strong>Ports:</strong></p><ul><li>Power</li></ul><ul><li>2-wire GPIO</li></ul><ul><li>Add more GPIO ports with optional 9-wire GPIO cable or COR Extensibility Dock (see Accessories section below)</li></ul><ul><li>USB 2.0</li></ul><ul><li>Two Ethernet LAN/WAN</li></ul><ul><li>Two cellular antenna connectors (SMA)</li></ul><ul><li>Two WiFi antenna connectors (R-SMA; IBR600C only)</li></ul><ul><li>One GPS connector (SMA) (150M-B, 150M-C, 150M-D only. LPE GPS is muxed on LTE)</li></ul><ul><li>15-pin dock port for COR Extensibiliity Dock or 9-wire GPIO cable</li></ul></li><li><p data-aura-rendered-by='12:182;a'> <strong>Temperature:</strong></p><ul><li> -20 °C to 60 °C (-4 °F to 140 °F) operating</li></ul></li><li><p data-aura-rendered-by='12:182;a'> <strong>Humidity (non-condensing):</strong></p><ul><li>5% to 95% operating</li><li>5% to 95% storage</li></ul></li><li><p data-aura-rendered-by='12:182;a'> <strong>Power:</strong></p><ul><li>DC input steady state voltage range: 9–33 VDC (requires inline fuse for vehicle installations)</li><ul><li>For 9–24 VDC installations, use a 3 A fuse</li><li>For > 24 VDC installations, use a 2.5 A fuse</li></ul></ul><ul><li>Reverse polarity and transient voltage protection per ISO 7637-2</li></ul><ul><li>Ignition sensing (automatic ON and time-delay OFF)</li></ul><ul><li>Power Consumption:</li><ul><li>Idle: 4 W</li><li>WiFi Tx/Rx: 9 W</li><li>LTE Tx/Tx: 6.25 W</li></ul></ul><li><p data-aura-rendered-by='12:182;a'> <strong>WIFI POWER (FCC):</strong></p><ul><li>2.4 GHz band: 28.1 dBm conducted</li></ul><li><p data-aura-rendered-by='12:182;a'> <strong>WIFI POWER (Europe/Rest of World): </strong></p><ul><li>2.4 GHz band: 15 dBm conducted</li></ul><ul><li>2.4 GHz band: 20 dBm EIRP</li></ul></li><li><p data-aura-rendered-by='12:182;a'> <strong>SIZE:</strong></p><ul><li>4.6 × 4.5 × 1.2 in (118 × 113.5 × 29.3 mm)</li></ul></li><li><p data-aura-rendered-by='12:182;a'> <strong>WEIGHT:</strong></p><ul><li>14 oz (400 g)</li></ul></li><li><p data-aura-rendered-by='12:182;a'> <strong>CERTIFICATIONS:</strong></p><ul><li>Regulatory: FCC, IC, CE, RCM (Austrailia/New Zealand), ICASA (South Africa)</li></ul><ul><li>WiFi Alliance (IBR600C only) – 802.11 b/g/n certified</li></ul><ul><li>Safety: UL/CUL, CB Scheme, EN60950-1</li></ul><ul><li>Shock/Vibration/Humidity: compliant with MIL STD 810G and SAEJ1455</li></ul><ul><li>Materials: WEEE, RoHS, RoHS-2, California Prop 65</li></ul><ul><li>Telecom: PTCRB/CTIA</li></ul></li> <br></br> <br></br> <br></br>"
+  }
